@@ -1,0 +1,8 @@
+feh --geometry 30% \
+--scale-down \
+--draw-filename \
+--title "[%wx%h] %n" \
+--output-dir "/home/kostis/Pictures/screenshots" \
+--action4 "xclip -selection clipboard -t image/png %F" \
+--action5 "gimp %F &" \
+--action9 "mv %F /home/kostis/.local/share/Trash/files/" \
