@@ -253,7 +253,7 @@ bindsym $mod+r mode "resize"
 
 #exec --no-startup-id /home/kostis/Documents/i3-alternating-layout/alternating_layouts.py
 #exec_always --no-startup-id feh --bg-scale /home/kostis/Pictures/Cliffside_Wallpaper_Edited2.jpg
-exec_always --no-startup-id feh --no-fehbg --bg-scale ~/Pictures/wallpaper.png &
+exec_always --no-startup-id feh --no-fehbg --bg-scale ~/Pictures/wallpaper_test.jpeg &
 exec --no-startup-id amixer -c 0 cset name='IEC958' on
 #exec_always --no-startup-id feh --bg-tile /home/kostis/Pictures/Repeating_Pattern_Wallpaper.png
 exec_always --no-startup-id xrandr --output DisplayPort-1 --off --output DisplayPort-0 --off --output DVI-D-0 --off --output HDMI-A-1 --mode 1920x1080 --pos 1920x0 --rotate left --output HDMI-A-0 --mode 1920x1080 --pos 0x416 --rotate normal 
