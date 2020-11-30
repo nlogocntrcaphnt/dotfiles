@@ -303,7 +303,7 @@ bindsym $mod+e exec --no-startup-id nautilus
 # Bar
 bar {
 	output HDMI-A-0
-    font pango: Ohsnap 10
+    font pango: Univers 57 Condensed, Oblique 11
     status_command i3status
     position bottom
 #   strip_workspace_numbers yes
@@ -326,7 +326,7 @@ bar {
 
 bar {
 	output HDMI-A-1
-    font pango: Ohsnap 9
+    font pango: Univers 57 Condensed, Oblique 11
     status_command i3status
     position bottom
 #   strip_workspace_numbers yes
