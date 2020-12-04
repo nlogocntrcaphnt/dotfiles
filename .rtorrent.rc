@@ -50,8 +50,8 @@ network.send_buffer.size.set    = 12M
 # CURL option to lower DNS timeout. Default: `60`.
 network.http.dns_cache_timeout.set = 25
 
-directory.default.set = ~/.rDownloads
-session.path.set = ~/.rSession
+directory.default.set = ~/Downloads
+session.path.set = ~/Documents/.rSession
 
 schedule2 = low_diskspace,5,60,((close_low_diskspace,100M))
 

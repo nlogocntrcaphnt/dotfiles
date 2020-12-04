@@ -1,0 +1,6 @@
+defaults.pcm.rate_converter "speexrate_best"
+
+pcm.dsp {
+    type plug
+    slave.pcm "dmix"
+}
