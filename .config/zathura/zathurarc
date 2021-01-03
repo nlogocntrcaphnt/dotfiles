@@ -11,3 +11,4 @@ map i recolor
 set recolor-lightcolor "#1a1a1a"
 set recolor-darkcolor "#c0c0c0"
 set font "Ohsnap 9"
+set selection-clipboard clipboard
