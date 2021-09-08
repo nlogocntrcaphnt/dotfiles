@@ -1,5 +1,5 @@
 % egrep -v '^#' .ncmpcpp/config
-mpd_music_dir = "/home/polyphemus/Music/Artists"
+mpd_music_dir = "~/Music/Artists"
 
 visualizer_in_stereo = "no"
 visualizer_fifo_path = "/tmp/mpd.fifo"
