@@ -57,7 +57,7 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 if [ "$color_prompt" = yes ]; then
-PS1="\[$(tput sgr0)\]\[\033[38;5;4m\]┌─╼ \[\033[38;5;7m\][\[\033[38;5;1m\]\u\[$(tput sgr0)\]\[\033[38;5;2m\]@\[$(tput sgr0)\]\[\033[38;5;1m\]\h\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;7m\]] ╺─╸\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;15m\][\[$(tput sgr0)\]\[\033[38;5;3m\]\W\[$(tput sgr0)\]\[\033[38;5;7m\]]\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;9m\]$_BRANCH_STR\[$(tput sgr0)\]\[\033[38;5;15m\] \n\[$(tput sgr0)\]\[\033[38;5;4m\]└─── \[$(tput sgr0)\]\[\033[38;5;7m\][ \[$(tput sgr0)\]\[\033[38;5;2m\]\A\[$(tput sgr0)\] \[\033[38;5;7m\]]\[$(tput sgr0)\]\[\033[38;5;8m\]$_EXIT_STATUS_STR \[$(tput sgr0)\]\[\033[38;5;4m\]──╼\[$(tput sgr0)\] "
+    PS1="\[$(tput sgr0)\]\[\033[38;5;4m\]┌─╼ \[\033[38;5;7m\][\[\033[38;5;1m\]\u\[$(tput sgr0)\]\[\033[38;5;2m\]@\[$(tput sgr0)\]\[\033[38;5;1m\]\h\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;7m\]] ╺─╸\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;15m\][\[$(tput sgr0)\]\[\033[38;5;3m\]\W\[$(tput sgr0)\]\[\033[38;5;7m\]]\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;9m\]$_BRANCH_STR\[$(tput sgr0)\]\[\033[38;5;15m\] \n\[$(tput sgr0)\]\[\033[38;5;4m\]└─── \[$(tput sgr0)\]\[\033[38;5;7m\][ \[$(tput sgr0)\]\[\033[38;5;2m\]\A\[$(tput sgr0)\] \[\033[38;5;7m\]]\[$(tput sgr0)\]\[\033[38;5;8m\]$_EXIT_STATUS_STR \[$(tput sgr0)\]\[\033[38;5;4m\]──╼\[$(tput sgr0)\] "
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
