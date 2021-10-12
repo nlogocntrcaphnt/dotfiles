@@ -1,4 +1,4 @@
-@-moz-document domain("4chan.org") {
+@-moz-document domain("4chan.org"), domain("4channel.org") {
 /* 4chin Script
 
 God this is so long and such a mess I'm v sorry.
@@ -23,16 +23,25 @@ Enjoy. <3
     
 /* custom colors */             /*var(--alt-bg)*/
 :root {
---post-bg: #14151F !important;                /* header bg */
---alt-bg: #1d1e2a !important;                /* bg */    
---header-bg: #1a1b26 !important;                /* post bg */        
---main-text: #ccc !important;      /* main text */
---secondary-text: #74857C !important;        /* name >text and quote */
---third-text: #a88085 !important;       /* date and links */
---title-text: #B294BB !important;       /* board title */    
+--post-bg: #393939c4 !important;                /* header bg */
+--alt-bg: #181818 !important;                /* bg */    
+--header-bg: #393939 !important;                /* post bg */        
+--main-text: #cccccce3 !important;      /* main text */
+--secondary-text: #878769f2 !important;        /* name >text and quote */
+--third-text: #5f8787f2 !important;     /* date and links */
+--fourth-text: #ccc3 !important;       
+--title-text: #cccccce3 !important;       /* board title */    
 }      
     
-    
+span.dateTime, div.post div.postInfo span.postNum {
+    color: var(--title-text) !important; 
+}
+
+
+a.hashlink {
+    color: var(--fourth-text) !important; 
+}
+   
 body, html {
     background: var(--alt-bg) !important;
     background-repeat: repeat !important;
@@ -112,7 +121,7 @@ color: var(--secondary-text) !important;
 }
     
     
-a, div.post div.postInfo span.postNum a:hover, a.deadlink, a.close, .tab-filter, a.tab-main.tab-selected, #qr-no-file, .yotsuba-b:root .entry, #boards a, .boxbar, .deadlink, .gal-name, #qr select, select, kbd, #thread-watcher > .move, .qr-shortcut, span.dateTime, .yotsuba.fixed:root #custom-board-list .current, .yotsuba-b.fixed:root #custom-board-list .current, .yotsuba-b:root #header-bar:hover, .yotsuba-b:root #board-list a:hover, .quotelink:hover, .settings-link, span.menu-button, #thread-stats, .container, .fileText, .yotsuba:root #header-bar, .yotsuba:root #notifications, div.post div.postInfo span.postNum, div.post div.postInfo span.postNum a {
+a, div.post div.postInfo span.postNum a:hover, a.deadlink, a.close, .tab-filter, a.tab-main.tab-selected, #qr-no-file, .yotsuba-b:root .entry, #boards a, .boxbar, .deadlink, .gal-name, #qr select, select, kbd, #thread-watcher > .move, .qr-shortcut, .yotsuba.fixed:root #custom-board-list .current, .yotsuba-b.fixed:root #custom-board-list .current, .yotsuba-b:root #header-bar:hover, .yotsuba-b:root #board-list a:hover, .quotelink:hover, .settings-link, span.menu-button, #thread-stats, .container, .fileText, .yotsuba:root #header-bar, .yotsuba:root #notifications, div.post div.postInfo span.postNum {
 color: var(--third-text) !important;        
 }
     
@@ -409,7 +418,8 @@ span.dateTime {
 
 /* give image borders */    
 img {
-     border: 0px !important;
+    border: 3px !important;
+    opacity: 0.8 !important;  
     border-color: var(--alt-bg) !important;
     border-style: solid !important;
 }    
@@ -443,7 +453,7 @@ margin-left: 0px !important;
 /* fonts */
 body, .post.reply, .opContainer, #board-list, #custom-board-list, #menu.dialog, .entry, .yotsuba-b:root .suboption-list > div:last-of-type, option, #qr textarea.field, .field, #index-search.field, #updater.dialog, #thread-stats.dialog, #thread-stats, .boardSubtitle, #thread-watcher, div.post div.postInfo span.nameBlock span.postertrip, div.post div.postInfo span.nameBlock span.name, div.post div.postInfo span.subject, #qr:not(.captcha-open) .captcha-counter > a, #file-n-submit > input, #watcher-link, .settings-link, .expand-all-shortcut, .qr-shortcut, div#boardNavDesktop, .yotsuba_b_new .backlink, .quotelink, div#boardNavDesktop a, table.postForm > tbody > tr > td:first-child, input[type="text"], input[type="password"], table.postForm > tbody textarea, #recaptcha_response_field, div#boardNavDesktopFoot a, #qr select {
   font-family: "Ohsnap", "Ohsnap" !important;
-  font-weight: 600 !important;
+  font-weight: 550 !important;
   font-size: 13px !important;
 }
     
@@ -492,15 +502,15 @@ hr {
     top: 18px !important;
     }    
             
-/* fade images 
+ fade images 
     
 div.boardBanner, img {
-    opacity: 0.5 !important;
+    opacity: 0.7 !important;
 }   
     
 div.boardBanner:hover, img.hover, .expanded-image > .post > .file > .fileThumb > .full-image {
-    opacity: 0.9 !important;
-}       */ 
+    opacity: 0.95 !important;
+}       
        
     
 /* Links */
