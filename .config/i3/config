@@ -64,6 +64,7 @@ bindsym XF86AudioPrev exec --no-startup-id mpc --port 6601 previous
 #dmenu keybinds
 bindsym $mod+shift+b exec --no-startup-id ls ~/Documents/PDFs/ | grep ".pdf" | sort | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '$0="Documents/PDFs/"$0' | xargs -r -d '\n' cat | zathura -
 bindsym $mod+shift+p exec --no-startup-id ~/Documents/repositories/scripts/passmenu.sh
+bindsym $mod+ctrl+d exec --no-startup-id grep 'emph' ~/Documents/repositories/LaTeX_personal_dictionary/Words.tex | sed 's/.*{//' | sed 's/.$//' | sort | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | xargs -I {} ~/Documents/repositories/LaTeX_personal_dictionary/addword.sh {} && zathura ~/Documents/repositories/LaTeX_personal_dictionary/Words.pdf
 
 
 # start a terminal
