@@ -30,9 +30,10 @@ for_window [class="mpv"] floating enable
 for_window [class="feh"] floating enable
 for_window [class="URxvt"] floating enable
 for_window [class="feh"] border pixel 6
-for_window [class="Firefox"] border pixel 3
+for_window [class="firefox"] border pixel 3
 for_window [class="discord"] border pixel 3
 for_window [class="Zathura"] border pixel 3
+for_window [class="Signal"] border pixel 3
 for_window [class="Zathura"] floating enable
 
 #gaps
@@ -52,7 +53,7 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 1
 #bindsym Shift+XF86AudioRaiseVolume exec --no-startup-id mpc --port 6601 play && mpc --port 6601 volume +1 && echo '{ "command": ["set_property", "pause", false] a}' | socat - /tmp/mpvsocket
 bindsym Shift+XF86AudioLowerVolume exec --no-startup-id mpc --port 6601 play && mpc --port 6601 volume -1
 bindsym Shift+XF86AudioMute exec --no-startup-id mpc --port 6601 pause
-
+bindsym Shift+XF86AudioRaiseVolume exec --no-startup-id mpc --port 6601 play
 bindsym XF86AudioPlay exec --no-startup-id mpc --port 6601 pause && echo '{ "command": ["set_property", "pause", true] }' | socat - /tmp/mpvsocket
 bindsym XF86AudioNext exec --no-startup-id mpc --port 6601 next
 bindsym XF86AudioPrev exec --no-startup-id mpc --port 6601 previous
@@ -62,13 +63,17 @@ bindsym XF86AudioPrev exec --no-startup-id mpc --port 6601 previous
 
 
 #dmenu keybinds
+bindsym $mod+shift+u exec --no-startup-id gpg -d Documents/usernames.txt.gpg | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '{print $1}' | xclip -selection c
 bindsym $mod+shift+b exec --no-startup-id ls ~/Documents/PDFs/ | grep ".pdf" | sort | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '$0="Documents/PDFs/"$0' | xargs -r -d '\n' cat | zathura -
 bindsym $mod+shift+p exec --no-startup-id ~/Documents/repositories/scripts/passmenu.sh
 bindsym $mod+ctrl+d exec --no-startup-id grep 'emph' ~/Documents/repositories/LaTeX_personal_dictionary/Words.tex | sed 's/.*{//' | sed 's/.$//' | sort | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | xargs -I {} ~/Documents/repositories/LaTeX_personal_dictionary/addword.sh {} && zathura ~/Documents/repositories/LaTeX_personal_dictionary/Words.pdf
 
+bindsym $mod+ctrl+r exec --no-startup-id urxvt -e ffmpeg -video_size 1920x1080 -framerate 30 -f x11grab -i :0.0+0,416 -c:v libx264 -crf 0 -preset ultrafast -color_range 2 -f alsa -ac 1 -i hw:3 ~/Videos/"$(date +"%Y_%m_%d_%I_%M")".mp4
+bindsym $mod+shift+v exec urxvt -e "arecord -D hw:2,0 -i -f S24_3LE -c 2 ~/Music/"$(date +"%Y_%m_%d_%I_%M")".wav; ls -lrt ~/Music/ | tail -n1 | sed 's/.*\ //' | xargs -I {} ffmpeg -i ~/Music/{} -ac 1 ~/Music/"$(date +"%Y_%m_%d_%I_%M")".mp3 && ls -lrt ~/Music/ | grep ".wav" | tail -n1 | sed 's/.*\ //' | xargs -I {} rm ~/Music/{}"
+
 
 # start a terminal
-bindsym $mod+Return exec --no-startup-id rxvt
+bindsym $mod+Return exec --no-startup-id urxvt
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -94,7 +99,7 @@ bindsym $mod+Right focus right
 # move focused window
 bindsym $mod+Shift+j move left
 bindsym $mod+Shift+k move down
-bindsym $mod+Shift+l move up
+#bindsym $mod+Shift+l move up
 bindsym $mod+Shift+semicolon move right
 
 # alternatively, you can use the cursor keys:
@@ -113,9 +118,9 @@ bindsym $mod+v split v
 bindsym $mod+f fullscreen
 
 # change container layout (stacked, tabbed, toggle split)
-bindsym $mod+s layout stacking
+#bindsym $mod+s layout stacking
 bindsym $mod+w layout tabbed
-#bindsym $mod+e layout toggle split
+bindsym $mod+s layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -251,7 +256,7 @@ mode "move" {
 bindsym $mod+r mode "resize"
 
 
-exec_always --no-startup-id feh --no-fehbg --bg-scale ~/Pictures/wallpaper_test.jpeg &
+exec_always --no-startup-id feh --no-fehbg --bg-scale ~/Pictures/wallpaper.jpg &
 #exec --no-startup-id amixer -c 0 cset name='IEC958' on
 exec_always --no-startup-id xrandr --output DisplayPort-1 --off --output DisplayPort-0 --off --output DVI-D-0 --off --output HDMI-A-1 --mode 1920x1080 --pos 1920x0 --rotate left --output HDMI-A-0 --mode 1920x1080 --pos 0x416 --rotate normal 
 exec_always --no-startup-id "setxkbmap -model pc105 -layout us,gr -option grp:ctrl_shift_toggle"
@@ -280,9 +285,10 @@ exec --no-startup-id gnome-settings-daemon
   set $base0F #2D2D2D
 
 bindsym $mod+d exec --no-startup-id dmenu_run -i -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12'
+bindsym $mod+Shift+l exec --no-startup-id maim /tmp/lock.png && convert /tmp/lock.png -scale 10% -scale 1000% /tmp/lock.png && i3lock -i /tmp/lock.png
 bindsym --release Print exec --no-startup-id "maim -s | xclip -selection clipboard -t image/png"
 bindsym --release $mod+p exec --no-startup-id "maim -u -m 3 -s ~/Pictures/screenshots/$(date +%s).png" 
-bindsym $mod+e exec --no-startup-id nautilus
+bindsym $mod+e exec --no-startup-id thunar ~/Downloads/
 #bindsym exec --no-startup-id $mod+Shift+w firefox
 
 # Widow Colours
@@ -295,7 +301,7 @@ bindsym $mod+e exec --no-startup-id nautilus
 # Bar
 bar {
 	output HDMI-A-0
-    font pango: Terminus (TTF) 9
+    font pango: Ohsnap 9
     status_command i3status
     position bottom
 #   strip_workspace_numbers yes
@@ -318,7 +324,7 @@ bar {
 
 bar {
 	output HDMI-A-1
-    font pango: Terminus (TTF) 9
+    font pango: Ohsnap 9
     status_command i3status
     position bottom
 #   strip_workspace_numbers yes
