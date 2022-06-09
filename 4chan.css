@@ -1,4 +1,3 @@
-@-moz-document domain("4chan.org"), domain("4channel.org") {
 /* 4chin Script
 
 God this is so long and such a mess I'm v sorry.
@@ -1165,5 +1164,4 @@ transition: .2s ease-out;
     
 .hats-enabled:root .catalog-small > .catalog-thread::after, .party-hat {
         display: none !important;
-}
 }
