@@ -1,7 +1,7 @@
 browser "w3m -o auto_image=FALSE %u"
 
 auto-reload yes
-macro m set browser "tsp mpv --input-ipc-server=/tmp/mpvsocket --ontop=yes --snap-window --geometry='-15-30' %u"; open-in-browser ; set browser "w3m -o auto_image=FALSE %u"
+macro m set browser "tsp mpv --input-ipc-server=/tmp/mpvsocket --ontop=yes --snap-window --geometry='-15-30' --profile=YouTube %u"; open-in-browser ; set browser "w3m -o auto_image=FALSE %u"
 macro M set browser "i3 exec mpv --ontop=yes --snap-window --geometry='-15-30' %u &"; open-in-browser ; set browser "w3m -o auto_image=FALSE %u"
 macro n set browser "urxvt -geometry 75x15-50+150 -e mpv --input-ipc-server=/tmp/mpvsocket --no-video --term-osd-bar --ontop=yes %u &"; open-in-browser ; set browser "w3m -o auto_image=FALSE %u"
 macro i set browser "/home/polyphemus/mpv_image_fetch.sh %u"; open-in-browser ; set browser "w3m -o auto_image=FALSE %u"
