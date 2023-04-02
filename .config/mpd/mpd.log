@@ -1,0 +1,890 @@
+Jun 11 01:35 : exception: Failed to access /home/polyphemus/Music/Artists: No such file or directory
+Jun 11 01:35 : config: option 'auto_resample' on line 19 was not recognized
+Jun 11 01:38 : mixer: Failed to read mixer for 'pulse audio': no such mixer control: PCM
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/02 Dafni.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/04 Rizitiko.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/08 Erotókritos.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/03 Syrta.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/06 Giasemaki.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/01 Castellas.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/07 Barbouni.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/09 Kontylies Pentozali.mp3
+Jun 11 01:40 : update: added Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/05 Lava.mp3
+Jun 11 01:40 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+Jun 11 01:40 : exception: Failed to open "Kostis greekoloid radio" (shout); problem opening connection to shout server localhost:8000: Couldn't connect
+Jun 11 01:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 11 01:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 11 01:41 : shout_output: error setting shout metadata
+Jun 11 01:41 : output: Failed to play on "Kostis greekoloid radio" (shout): Lost shout connection to localhost:8000: Not connected
+Jun 11 01:41 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 11 01:41 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 11 01:41 : config: option 'auto_resample' on line 19 was not recognized
+Jun 11 01:42 : config: option 'auto_resample' on line 19 was not recognized
+Jun 11 01:42 : exception: Failed to open "pulse audio" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jun 11 01:43 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+Jun 11 01:43 : exception: Failed to open "Kostis greekoloid radio" (shout); problem opening connection to shout server localhost:8000: Couldn't connect
+Jun 11 01:46 : exception: Failed to commit /home/polyphemus/.config/mpd/mpdstate: File exists
+Jun 11 01:46 : player: played "Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/08 Erotókritos.mp3"
+Jun 11 01:46 : player: played "Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/08 Erotókritos.mp3"
+Jun 11 02:02 : player: played "Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/02 Dafni.mp3"
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 02 - Μη Χαμηλώνεις Τα Φτερά.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 09 - Ιντά 'Χετε Γύρου Γύρου (Ριζίτικο).flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 08 - Σταφιδιανός.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 10 - Μαλεβιζιώτης.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 04 - Κοντυλιές.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 01 - Όσο Κι Άν Δέρνει Ο Άνεμος.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 07 - Ως Τρέμουν Τ' Άστρα Τ' Ουρανού.flac
+Jun 11 02:33 : update: added Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 03 - Σαν Το Νερό Του Ποταμού.flac
+Jun 11 02:33 : player: played "Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/09 Kontylies Pentozali.mp3"
+Jun 11 19:33 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac"
+Jun 11 20:57 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 11 21:08 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac"
+Jun 11 21:14 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 11 21:19 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 11 21:25 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 12 01:20 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jun 13 04:28 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac"
+Jun 13 04:37 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 04:43 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 04:48 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 04:57 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac"
+Jun 13 05:01 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac"
+Jun 13 05:05 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac"
+Jun 13 05:24 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 05:29 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 05:35 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 05:41 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 05:46 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 05:52 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 05:58 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 06:04 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 06:09 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 06:15 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 06:21 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 06:26 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 06:32 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 13 22:22 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 14 05:36 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 15 01:56 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 18 08:01 : player: played "Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac"
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/05. Ο Πραματευτής.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/10. Μανάκι Μου (Παραδοσιακό).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/04. Φαράγγι.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/11. Παλμός.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/13. Κουτρουλιανό Νερό (Παραδοσιακό).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/01. Η Τίγρη.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/14. Πότε Θα Κάνει Ξαστεριά (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/02. Ως Είναι Η Σπίθα Λαμπερή.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/08. Έφυγες Ένα Βράδυ (Καλαματιανό).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/07. Μόνο Εκείνος Π' Αγαπά.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/09. Άνοιξιάτικο Ξύπνημα.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/12. Ο Δίας (Ύμνος Στον Ψηλορείτη).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/03. Σαν Είναι Δυο Δέντρα Μαζί.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/06. Για Δες Πως Με Κατάντησες (Κοντυλιές).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/04. Θ' Ανεβώ Στον Ουρανό.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/10. Ζηλιάρικο.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/12. Ταξίδι.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/09. Έμ Όντε Πας Στην Εκκλησιά (Μαλεβιζιώτικος).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/07. Ξεκινάει Μια Ψαροπούλα.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/13. Το Δαχτυλίδι.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/11. Απόψε Κρύος Έπιασε (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/08. Εκατο Δυο Αρχοντόπουλα (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/02. Ζηλεύω Του Σταυραετού (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/14. Κούντουρο Κούντουρο Σκοινί.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/05. Η Μνήμη Που Πληγώνει.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/06. Ο Μαουκάς.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/03. Τούρκα Είσαι Για Ρωμιά.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/01. Παλιό Κρασί Είν' Η Σκέψη.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/07. Το Μερακλίδικο Πουλί.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/06. Όταν Σ' Ανιστορηθώ (Συρτός).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/05. Γυρισμός.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/08. Λευτεριά.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/14. Τ' Αγριμάκια (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/13. Το Τραγούδι Του Γύφτου.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/10. Πάντα Ψηλά Στέκει Η Κορφή (Συρτός).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/02. Μάνα, Λούσε Με (Συρτός).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/01. Kρίνος.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/03. Κάνει Πως Βλέπει Αριστερά.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/12. Όμορφο Νιο Εζύγωνε (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/09. Το Όνειρο (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/11. Λυράκια.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/04. Ο Πόθος Της Λευτεριάς (Ριζίτικο).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/02. Aftoshediasmi Me Lyra.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/08. Na Kamo Theli Tarahi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/09. Kontyllies.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/12. Solo Lyra.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/07. Eskeftika Na S' Arnitho.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/04. Sousta.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/06. Maleviziotikos Horos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/11. Anogiana Sirta.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/03. Solo Laouto.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/01. Sose Me Giatre Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/05. Rethemniotika Sirta.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/10. Pendozalis.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/10. Kaike To Galaxidi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/14. Me Ta Maounosidera.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/05. Stou Piromahou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/16. Angel Dying (Petroperdika).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/09. Dourou Dourou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/11. Kato Sti Rodo.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/02. Dias.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/04. Arapina.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/13. Erotokritos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/12. Dromous Ke Topous.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/08. Kalotiha ΄ne Ta Vouna.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/06. Oso Varoun Ta Sidera.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/03. Thalassa Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/01. Ego Den Ime Kianenous.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/07. Sopeno.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/15. Petra Vouvi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/13. O Dias.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/07. I Tigri.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/01. Ton Ilio Eho Sindrofia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/02. To Farangi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/14. O Kir Vorias.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/04. Zoi San De Mou Harises.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/12. O Andras.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/11. Sto Koritsi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/15. Posa Keria.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/10. I Andres I Fanisimi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/09. Th΄ Anevo Ston Ourano (Petroperdika).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/16. Den Klene I Dinates Kardies.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/03. Anasa Ap΄ Tin Anasa Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/05. Filendem.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/06. To Megalio Tou Psilorefti.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/08. Pramateftis Katevene.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/03. Em' Onde Pas Stin Ekklisia (Maleviziotis).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/12. Kimate O Ilios (Rizitiko).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/05. O Kir Vorias (Rizitiko).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/10. Mikio Kopelidaki Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/07. I Kivernoune Dio Thei.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/02. Koundouro Koundouro Skini.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/09. Farangi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/04. I Tigri.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/11. Th' Anevo Ston Ourano.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/06. Mana, Louge Me (Rizitiko).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/01. Na Kamo Thelo Tarahi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/08. To Meraklidiko Pouli.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/09. Gianda 'se Nihta Skotini.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/06. O Tsoutsoulos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/11. Avto To Ah Den In` Fotia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/04. Andras Pou Den Ekatehe.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/03. O Dias (Imnos Ston Psiloriti).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/10. Petra Vouvi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/05. Na Kateha Pou Meni O Aitos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/12. Pote Tha Kami Xasteria (Rizitiko).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/01. Na 'hen I Thalassa Vouna.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/08. Aftoshediasmos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/07. To Ah Dendro De Ginete.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/02. Pou 'ne O Keros, Poulaki Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/06. Ena Pouli Iha Sto Klouvi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/10. Solo Laouto.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/09. Pidihtos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/07. Pikio Kopelidaki Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/08. Haniotiko Syrto.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/05. Is Ta Hania In` Ena Nero.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/01. Solo Lyra.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/02. Petres Peto Tou Fengariou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/04. More Si Pou Katevenes.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1982-Anastorimata/03. Perdikaki (Kontylies).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/16. Ithela Ke Na Kateha (Omorfa Stolis' O Theos Ton Kosmo).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/10. O Pothos Tis Lefterias.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/09. Ekato Dio Arhontopoula.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/06. O Tsoutsoulos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/13. To Oniro.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/08. To Anarotima Gia Tin Kori.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/02. Ekia Pou Smigoun I Keri.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/18. T' Agrimakia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/19. O Epanastatis (Pote Tha Kami Xasteria).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/14. O Filakismenos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/17. To Xeno Me To Mavro Tou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/07. To Pervoli.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/05. Ego Tsi Nihtes Porpato.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/03. O Kir Vorias.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/04. Zilevo Tou Stavraetou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/15. Exorise Me I Mira Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/11. O Pramateftis.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/12. Mana, Louge Me.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2002-Rizitika/01. Andrianoupoli.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/16. Omorfos Pou 'ne O Kipos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/03. Pendozalia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/12. Pidihtos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/10. Haniotika Sirta.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/13. Horos Kouriton.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/14. I Mnimi Pou Pligoni.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/07. Kastrinos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/05. Lyrakia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/09. Taxidi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/11. Girismos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/19. Theros.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/20. Handiperas.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/01. Imnos Psiloriti.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/18. Ehoun Oli Tous Pethani.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/08. Solo Lyra.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/15. Kita Ta Vouna.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/04. Palmos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/17. Kategida.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/02. Etheras.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1998-Nogo (I Reckon)/06. Spathies.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/12. Zilevo Ekino To Dendro.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/05. Gi Afto Zilevo Ta Poulia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/04. Akri Tou Ouranou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/10. Sa Dakri.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/02. Tin Petra Tsi Ipomonis.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/11. Kanis Gia Mena Den Poni.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/03. Onde Sou Thelo Thimitho.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/08. To Stavro Tou Golgotha.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/06. O Nous Mou Epa Ki Onous Mou Alli.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/01. Na `hen I Thalassa Vouna.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/07. Tris Kalogiri Kritiki.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/09. Ipa To Poso S` Agapo.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/05. To Sirto Tou Potamou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/01. Orfeas.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/03. To Tragoudi Tou Polemou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/12. Thelo Na Miliso.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/04. Angathi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/10. Panthiras.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/06. Tambouras.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/08. Iraklitos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/11. Simvoules S` Ena Neo Lyrari.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/02. Albatros.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/09. Odysseas.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/07. Kordova.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/13. Mahi Stin Kriti.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/08. Mana Poli Malonis Me.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/03. Agrimia Ki Agrimakia Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/11. Erotokritos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/02. Ta Koulourakia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/04. Mikro Kopelidaki Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/01. Petres Peto Tou Fengariou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/07. Syrtos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/06. Mia Perdika.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/05. Ena Pouli Iha Sto Klouvi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/15. Andras Pou Den Ekatehe.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/12. Em` Onde Pas Stin Ekklisia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/08. Koundouro Koundouro Skini.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/11. Efiges Ena Vradi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/10. Messaritikes Kontylies (Instrumental).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/02. Sta Keramia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/16. Esi `se San Ti Rodaria.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/05. Tha Anevo Ston Ourano.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/04. Kani Pos Vlepi Aristera.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/06. O Dias (Ymnos Ston Filoriti).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/14. Andras Pou Den Ekatehe.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/01. Farangi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/13. Askopandoura (Sigano) (Instrumental).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/03. Kardia In` Ekeni Ke Poni.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/09. To Meraklidiko Pouli.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1999-Ideon Andron/07. Omorfo Nio Ezigone.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/01. A) Na Kamo Thelo Tarahi B) Lousakiano Krasi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/04. Ekia Pou Thelo.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/05. Den Pezo Petra Se Dendro.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/06. Pefti To Vrohino Nero.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/02. Evala Ego Vasilikous.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/11. Petra Vouvi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/03. Esi Tharrispos I Pligi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/07. Petaxe T` Armata Kardia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/09. Krima Ton Kopo.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/10. Mia Parastia Ti Skepsi Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/08. Ta Matia Sou Mou Ferane.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/01. Homa Ke Fos (Instrumental).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/14. Trizalis.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/03. San Ine Dio Dendra Mazi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/07. Pousouna Ke De S` Evlepa.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/09. Ortses.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/15. Maleviziotis.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/12. Rethemno.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/13. Min To Tha Rthis Pos S' Agapo.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/05. Ohendra.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/04. Diamanti Ke Roubi.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/08. M` Tsi Mikrous Imoun Mikros.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/11. Angelokamoti.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/10. Palio Krasi In' I Skepsi Mou.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/06. Kondilies.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/16. Koutrouliano Nero.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/02. Krinos.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/09. Pendozalia.mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/02. Den Kelaidi Blio To Pouli (Syrtos).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/07. Panda Psila Steki I Korfi (Syrtos).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/06. Parapanoume Mias Psihis (Syrtos).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/04. Egine O Betis Sou Giali (Syrtos).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/01. Gia Des Pos Me Katandises (Tragoudi) (Kontylies).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/08. Apopse Krios Epiase (Rizitiko).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/03. Sose Me Giatre Mou (Tourka Ise Gia Romia) (Tragoudi).mp3
+Jun 24 20:37 : update: added Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/05. Kontylies.mp3
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-07. Not The Son Of Desert Storm, But The Child Of Chechnya.flac
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-01. Circumstances Quickly Became Questioned.flac
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-05. Enter Paradise.flac
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-02. Tonight Saddam Walks Amidst Ruins.flac
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-08. Jet Fumes Above The Reflecting Pool.flac
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-04. Contractor Corpses Hung Over The Euphrates River.flac
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-03. Muscle Hijacker Tribal Affiliation.flac
+Jun 24 20:37 : update: added Vatican Shadow/2013 - Remember Your Black Day/1-06. Remember Your Black Day.flac
+Jun 24 20:37 : update: added Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/04. Taxi Journey Through The Teeming Slums Of Tehran.flac
+Jun 24 20:37 : update: added Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/02. Rehearsing For The Attack.flac
+Jun 24 20:37 : update: added Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/05. Moving Secret Money.flac
+Jun 24 20:37 : update: added Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/01. Predawn Coup D’etat (Schwarzkopf Duffle Bags Of Rials).flac
+Jun 24 20:37 : update: added Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/03. Uncontrollable Oasis (Real Life Spy Mystery Ends With Scientist Hanged In Iran).flac
+Jun 24 20:37 : update: added Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/06. Ayatollah Ferocity (The Refinery At Abadan).flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/04 All the Molds and Dies Destroyed.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/06 Never Reveal the Secrets of the Worlds Most Ominous Bird.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/05 Twilight Nail in Its Coffin.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/09 Rescue.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/08 The SR-71 Blackbird Was Almost Brought Back for the War on Terror.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/01 Behold the SR-71 Blackbird's Nest at Dawn.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/07 The Other Blackbirds Required Shipping to Their Final Resting Places Which Necessitated Their Wings Being Sawed Off by Worldwide Aircraft Recovery.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/03 Nothing Lived There.flac
+Jun 24 20:37 : update: added Vatican Shadow/SR-71 Blackbird Survivors (web)/02 Outrunning Machine Gun Bullets.flac
+Jun 24 20:37 : player: played "Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/09 Kontylies Pentozali.mp3"
+Jun 24 22:54 : player: played "Ψαραντωνης/Albums/1999-Ideon Andron/01. Farangi.mp3"
+Jun 24 22:59 : player: played "Ψαραντωνης/Albums/1999-Ideon Andron/04. Kani Pos Vlepi Aristera.mp3"
+Jun 24 23:04 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jun 25 14:22 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jun 27 13:53 : player: played "Ψαραντωνης/Albums/1999-Ideon Andron/01. Farangi.mp3"
+Jun 27 17:09 : output: Failed to play on "pulse audio" (pulse): suspended
+Jun 27 17:09 : exception: Failed to open audio output
+Jun 27 21:29 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/02 Outrunning Machine Gun Bullets.flac"
+Jul 04 12:58 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/03 Nothing Lived There.flac"
+Jul 12 18:31 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/04 All the Molds and Dies Destroyed.flac"
+Jul 13 02:41 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/04 All the Molds and Dies Destroyed.flac"
+Jul 15 04:10 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/04 All the Molds and Dies Destroyed.flac"
+Jul 15 04:24 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Jul 15 05:03 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Jul 15 05:07 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Jul 15 05:12 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Jul 15 05:16 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Jul 15 15:21 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 15 15:21 : exception: Failed to open audio output
+Jul 15 15:21 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 15 15:21 : exception: Failed to open audio output
+Jul 15 15:21 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 15 15:21 : exception: Failed to open audio output
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:22 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Jul 15 15:26 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Jul 15 15:30 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Jul 15 20:24 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jul 15 20:28 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jul 15 20:33 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jul 15 20:37 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jul 15 20:42 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jul 15 20:46 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Jul 15 20:50 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jul 17 01:47 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 04 05:05 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Oct 19 13:35 : update: added Autechre/1998 LP5/05 Autechre - Vose In.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/08 Autechre - Corc.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/03 Autechre - Rae.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/04 Autechre - Melve.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/10 Autechre - Arch Carrier.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/12 Autechre - Untitled.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/02 Autechre - 777.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/06 Autechre - Fold4, Wrap5.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/07 Autechre - Under Boac.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/09 Autechre - Caliper Remote.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/11 Autechre - Drane2.flac
+Oct 19 13:35 : update: added Autechre/1998 LP5/01 Autechre - Acroyear2.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A2. Montreal.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/D2. Nil.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A1. Foil.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A3. Silverside.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/B3. Piezo.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/D1. Yulquen.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/C2. Further.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/D3. Teartear.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/B2. Glitch.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/B1. Slip.flac
+Oct 19 13:35 : update: added Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/C1. Nine.flac
+Oct 19 13:35 : update: added Autechre/Anti EP/Autechre (Anti EP)-[02]-Djarum.mp3
+Oct 19 13:35 : update: added Autechre/Anti EP/Autechre (Anti EP)-[01]-Lost.mp3
+Oct 19 13:35 : update: added Autechre/Anti EP/Autechre (Anti EP)-[03b]-Flutter [33 RPM].mp3
+Oct 19 13:35 : update: added Autechre/Anti EP/Autechre (Anti EP)-[03]-Flutter.mp3
+Oct 19 13:35 : update: added Autechre/Tri Repetae/09 Overand.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/05 Stud.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/02 Clipper.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/03 Leterel.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/08 Gnit.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/10 Rsdio.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/07 C_Pach.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/06 Eutow.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/01 Dael.flac
+Oct 19 13:35 : update: added Autechre/Tri Repetae/04 Rotar.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/05 - Parhelic Triangle.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/06 - Bine.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/01 - VI Scose Poise.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/04 - Sim Gishel.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/02 - Cfern.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/10 - MCR Quarter.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/03 - Pen Expers.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/07 - Eidetic Casein.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/08 - Uviol.flac
+Oct 19 13:35 : update: added Autechre/2001 Confield/09 - Lentic Catachresis.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/10 - lowride.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/06 - eggshell.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/07 - doctrine.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/02 - bike.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/04 - bronchus 2.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/01 - kalpol introl.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/09 - windwind.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/03 - autriche.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/11 - 444.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/08 - maetl.flac
+Oct 19 13:35 : update: added Autechre/1994 Incunabula/05 - basscadet.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/10 - Nil.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/06 - Piezo.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/08 - Further.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/01 - Foil.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/11 - Teartear.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/02 - Montreal.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/09 - Yulquen.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/05 - Glitch.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/03 - Silverside.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/07 - Nine.flac
+Oct 19 13:35 : update: added Autechre/1994 Amber/04 - Slip.flac
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0001
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0002
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0003
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0004
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0005
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0006
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0007
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0008
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0009
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0010
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0011
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0007
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0006
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0005
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0004
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0003
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0002
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0001
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0012
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0011
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0010
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0009
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0008
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0012
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0011
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0010
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0009
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0008
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0007
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0006
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0005
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0004
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0003
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0002
+Oct 19 13:35 : update: removing Autechre/1998 LP5/LP5.cue/track0001
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0011
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0010
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0009
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0008
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0007
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0006
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0005
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0004
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0003
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0002
+Oct 19 13:35 : update: removing Autechre/1994 Amber/Amber.cue/track0001
+Oct 19 13:35 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Oct 19 13:42 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 19 13:49 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 19 13:55 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 19 14:56 : player: played "Autechre/1994 Incunabula/01 - kalpol introl.flac"
+Oct 19 15:05 : player: played "Autechre/1994 Incunabula/03 - autriche.flac"
+Oct 19 15:22 : player: played "Autechre/1994 Incunabula/05 - basscadet.flac"
+Oct 19 15:37 : player: played "Autechre/1994 Incunabula/07 - doctrine.flac"
+Oct 19 15:42 : player: played "Autechre/1994 Incunabula/10 - lowride.flac"
+Oct 20 11:34 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 20 21:26 : player: played "Autechre/1994 Incunabula/09 - windwind.flac"
+Oct 23 22:36 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 23 22:47 : player: played "Autechre/1994 Incunabula/09 - windwind.flac"
+Oct 23 22:55 : player: played "Autechre/1994 Incunabula/10 - lowride.flac"
+Oct 24 02:26 : player: played "Autechre/1994 Incunabula/11 - 444.flac"
+Oct 25 21:50 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 25 22:02 : player: played "Autechre/1994 Incunabula/09 - windwind.flac"
+Oct 25 22:09 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 25 22:20 : player: played "Autechre/1994 Incunabula/09 - windwind.flac"
+Oct 25 22:27 : player: played "Autechre/1994 Incunabula/10 - lowride.flac"
+Oct 25 22:36 : player: played "Autechre/1994 Incunabula/11 - 444.flac"
+Oct 25 22:42 : player: played "Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A1. Foil.flac"
+Oct 26 03:50 : player: played "Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A2. Montreal.flac"
+Oct 27 21:01 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Oct 27 21:12 : player: played "Autechre/1994 Incunabula/09 - windwind.flac"
+Oct 28 04:51 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Oct 28 04:56 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3"
+Oct 28 04:58 : player: played "Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3"
+Oct 30 05:01 : player: played "Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/09 Kontylies Pentozali.mp3"
+Nov 03 02:02 : player: played "Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/09 Kontylies Pentozali.mp3"
+Nov 03 02:09 : player: played "Autechre/1994 Incunabula/08 - maetl.flac"
+Nov 04 06:17 : player: played "Autechre/1994 Incunabula/09 - windwind.flac"
+Dec 04 16:13 : player: played "Autechre/1994 Incunabula/09 - windwind.flac"
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/104. Vatican Shadow - ATF Sinner Messiah.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/109. Vatican Shadow - Machine-Gunning Of The Davidians.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/114. Vatican Shadow - Manufactured Silencers Under Direct Orders.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/101. Vatican Shadow - Al Qaeda (Branch Davidian).flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/120. Vatican Shadow - Waco Postmortem (Murrah).flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/103. Vatican Shadow - It's To Come.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/116. Vatican Shadow - Small Explosives And Blasting Caps.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/105. Vatican Shadow - FBI God.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/110. Vatican Shadow - Texarkana Resistance.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/111. Vatican Shadow - Theology Is Life And Death (Pakistan).flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/112. Vatican Shadow - Descended On Guayanilla (CNN).flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/108. Vatican Shadow - Koresh Lamb.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/107. Vatican Shadow - Fort Hood Again.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/115. Vatican Shadow - Living On And Off At The Shadows Motel.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/106. Vatican Shadow - Koresh Babylon.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/113. Vatican Shadow - Arms Of Yahweh.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/119. Vatican Shadow - Shadows On The Courthouse Wall.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/117. Vatican Shadow - Inside The Pages Of A Phonebook.flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/102. Vatican Shadow - Desert Storm (Waco).flac
+Dec 04 16:26 : update: added Vatican Shadow/2014 - Death Is Unity With God/118. Vatican Shadow - McVeigh Figure.flac
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0012
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0011
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0010
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0009
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0008
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0007
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0006
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0005
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0004
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0003
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0002
+Dec 04 16:26 : update: removing Autechre/1998 LP5/LP5.cue/track0001
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0011
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0010
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0009
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0008
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0007
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0006
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0005
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0004
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0003
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0002
+Dec 04 16:26 : update: removing Autechre/1994 Amber/Amber.cue/track0001
+Dec 05 03:18 : player: played "Vatican Shadow/2014 - Death Is Unity With God/103. Vatican Shadow - It's To Come.flac"
+Dec 08 01:05 : player: played "Vatican Shadow/2014 - Death Is Unity With God/103. Vatican Shadow - It's To Come.flac"
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/06 - Deliverance From Possession.flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/08 - Exorcism Training Course.flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/09 - Paradise Lost (Hidden Face Of The Devil).flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/10 - Manhattan Is A Haunted City.flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/04 - October Road Between Life And Death.flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/03 - Guide Within The Waters Of Tiamat.flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/05 - Return To The Tree Of Knowledge.flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/07 - Loyal To Evil.flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/02 - Iconophilia (Death On Display).flac
+Dec 08 01:05 : update: added Vatican Shadow/2019 - Church Of All Hallows' Eve'/01 - Torchlight (Church Of All Hallows' Eve).flac
+Dec 08 01:10 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/01 - Torchlight (Church Of All Hallows' Eve).flac"
+Dec 08 01:16 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/02 - Iconophilia (Death On Display).flac"
+Dec 08 03:09 : output: Failed to play on "pulse audio" (pulse): suspended
+Dec 08 03:09 : exception: Failed to open audio output
+Dec 08 03:29 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/03 - Guide Within The Waters Of Tiamat.flac"
+Dec 08 03:51 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/04 - October Road Between Life And Death.flac"
+Dec 08 03:57 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/05 - Return To The Tree Of Knowledge.flac"
+Dec 08 04:20 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/06 - Deliverance From Possession.flac"
+Dec 08 14:27 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/06 - Deliverance From Possession.flac"
+Dec 08 14:37 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/07 - Loyal To Evil.flac"
+Dec 08 14:43 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/08 - Exorcism Training Course.flac"
+Dec 08 14:48 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/09 - Paradise Lost (Hidden Face Of The Devil).flac"
+Dec 08 14:50 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/06 - Deliverance From Possession.flac"
+Dec 08 22:15 : player: played "Vatican Shadow/2013 - Remember Your Black Day/1-01. Circumstances Quickly Became Questioned.flac"
+Dec 09 05:17 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/06 - Deliverance From Possession.flac"
+Dec 09 16:39 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/06 - Deliverance From Possession.flac"
+Dec 10 03:56 : player: played "Vatican Shadow/2019 - Church Of All Hallows' Eve'/07 - Loyal To Evil.flac"
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/10 - Mantrax.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/06 - Train-Trac.1.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/08 - Theychx.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/01 - A New Day.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/07 - Another Time (Revisited).flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/02 - F.U..flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/03 - Slac.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/13 - Logikal Nonsense.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/04 - Dimension Intrusion.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/09 - UVA.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/05 - Substance Abuse.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/12 - Into The Space.flac
+Dec 10 03:56 : update: added FUSE/FUSE - Dimension Intrusion/11 - Nitedrive.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 11 Bureau de Rave.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 10 Fossil Funk.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 02 Flangeslab.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 13 Capsule in Space (Bonus Slam).flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 14 Bureau de Rave (Parodigy Mix).flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 03 Housedream.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 05 Darqcyde.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 15 Newsround (Craven mix).flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 12 Eurozone.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 01 Amigo.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 08 Waltzacid.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 09 Newsround.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 07 Meadow Track.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 06 Galahad.flac
+Dec 10 03:56 : update: added Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 04 Capsule in Space.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/D3 - Paris Dub.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/C2 - We Aint.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/B2 - Machines Our Coming.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/A1 - Light Tunnel.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/B1 - Paris Dub 3.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/D2 - 300 Hangovers A Year.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/C1 - Lovin U Ahh Shit.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/A2 - Transmission 5.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/A3 - Headtrack.flac
+Dec 10 03:56 : update: added Paranoid London/Paranoid London ‎– Paranoid London (2014)/D1 - Eating Glue.flac
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0012
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0011
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0010
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0009
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0008
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0007
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0006
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0005
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0004
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0003
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0002
+Dec 10 03:56 : update: removing Autechre/1998 LP5/LP5.cue/track0001
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0011
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0010
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0009
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0008
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0007
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0006
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0005
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0004
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0003
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0002
+Dec 10 03:56 : update: removing Autechre/1994 Amber/Amber.cue/track0001
+Dec 10 04:00 : player: played "FUSE/FUSE - Dimension Intrusion/01 - A New Day.flac"
+Dec 10 04:37 : player: played "FUSE/FUSE - Dimension Intrusion/02 - F.U..flac"
+Dec 10 23:39 : player: played "FUSE/FUSE - Dimension Intrusion/02 - F.U..flac"
+Dec 11 05:55 : player: played "FUSE/FUSE - Dimension Intrusion/02 - F.U..flac"
+Jan 07 14:15 : player: played "FUSE/FUSE - Dimension Intrusion/02 - F.U..flac"
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0001
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0002
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0003
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0004
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0005
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0006
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0007
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0008
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0009
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0010
+Jan 07 14:15 : update: removing Autechre/1994 Amber/Amber.cue/track0011
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0001
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0002
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0003
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0004
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0005
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0006
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0007
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0008
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0009
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0010
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0011
+Jan 07 14:15 : update: removing Autechre/1998 LP5/LP5.cue/track0012
+Jan 07 14:19 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/01 Behold the SR-71 Blackbird's Nest at Dawn.flac"
+Jan 07 14:24 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/02 Outrunning Machine Gun Bullets.flac"
+Jan 07 14:30 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/03 Nothing Lived There.flac"
+Jan 09 04:25 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/04 All the Molds and Dies Destroyed.flac"
+Feb 26 16:25 : player: played "Vatican Shadow/SR-71 Blackbird Survivors (web)/04 All the Molds and Dies Destroyed.flac"
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0001
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0002
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0003
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0004
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0005
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0006
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0007
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0008
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0009
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0010
+Feb 26 16:25 : update: removing Autechre/1994 Amber/Amber.cue/track0011
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0001
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0002
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0003
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0004
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0005
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0006
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0007
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0008
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0009
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0010
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0011
+Feb 26 16:25 : update: removing Autechre/1998 LP5/LP5.cue/track0012
+Feb 26 16:28 : player: played "Autechre/1994 Incunabula/01 - kalpol introl.flac"
+Feb 26 16:36 : player: played "Autechre/1994 Incunabula/02 - bike.flac"
+Feb 28 02:03 : player: played "Autechre/1994 Incunabula/03 - autriche.flac"
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/03 - Man Of 300 Voices.mp3
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/01 - I See, The Sea!.mp3
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/04 - Hellenes Do Not Fight Like Heroes, Heroes Fight Like Hellenes.mp3
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/07 - Alexandros - Ode A'.mp3
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/08 - Alexandros - Ode B'.mp3
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/05 - From Son To Father.mp3
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/02 - Gods Of War - At War.mp3
+Mar 19 21:27 : update: added Macabre Omen/2015 - Gods of War - At War/06 - Rhodian Pride, Lindian Might.mp3
+Mar 19 21:27 : update: added Macabre Omen/The Ancient Returns/01 - In Memory....mp3
+Mar 19 21:27 : update: added Macabre Omen/The Ancient Returns/03 - An Ode To Rhode.mp3
+Mar 19 21:27 : update: added Macabre Omen/The Ancient Returns/04 - The Perfect Sound Of North Vs. South.mp3
+Mar 19 21:27 : update: added Macabre Omen/The Ancient Returns/05 - Hellas - Ode A  Ode B.mp3
+Mar 19 21:27 : update: added Macabre Omen/The Ancient Returns/02 - A Call From Gods To God.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 02. Ύμνος στους ανέμους.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 04. Ύμνος στον Απόλλων.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 07. Ισόθεος.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 06. Άδης.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 03. Εις Δήμητρα.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 08. Πανσπερμία.mp3
+Mar 19 21:27 : update: added Kawir/Ισόθεος/Kawir 'Ισόθεος' 01. Δαίμων.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/02 Dionysus.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/08 The Descent of Persephone.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/07 The Taurian Artemis.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/06 Hail To The Three Shaped Goddess.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/04 To Diouscuri.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/03 Hercules Enraged.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/05 To Mother Moon.mp3
+Mar 19 21:27 : update: added Kawir/Father Sun, Father Moon/01 To the Sovereign Sun.mp3
+Mar 19 21:27 : update: added Kawir/Arai/09. Nekydaimon.mp3
+Mar 19 21:27 : update: added Kawir/Arai/04. Katadesmos.mp3
+Mar 19 21:27 : update: added Kawir/Arai/07. Ode to Time.mp3
+Mar 19 21:27 : update: added Kawir/Arai/02. Oneiropompos.mp3
+Mar 19 21:27 : update: added Kawir/Arai/01. Telchines the Magic Race.mp3
+Mar 19 21:27 : update: added Kawir/Arai/08. Typhoon Magic.mp3
+Mar 19 21:27 : update: added Kawir/Arai/03. Bind Enemies.mp3
+Mar 19 21:27 : update: added Kawir/Arai/06. The Curse of the Old Witch.mp3
+Mar 19 21:27 : update: added Kawir/Arai/05. Thunderstorm.mp3
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0012
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0011
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0010
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0009
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0008
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0007
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0006
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0005
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0004
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0003
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0002
+Mar 19 21:27 : update: removing Autechre/1998 LP5/LP5.cue/track0001
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0011
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0010
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0009
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0008
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0007
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0006
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0005
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0004
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0003
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0002
+Mar 19 21:27 : update: removing Autechre/1994 Amber/Amber.cue/track0001
+Mar 19 21:27 : player: played "Autechre/1994 Incunabula/03 - autriche.flac"
+Mar 20 20:27 : player: played "Macabre Omen/2015 - Gods of War - At War/07 - Alexandros - Ode A'.mp3"
+Mar 20 20:40 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"
+Mar 20 20:46 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"
+Mar 20 20:52 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"
+Mar 23 02:03 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"

@@ -1,7 +1,8 @@
 sw_volume: 98
 audio_device_state:1:pulse audio
-audio_device_state:1:my_fifo
-state: stop
+state: pause
+current: 4
+time: 105.207000
 random: 0
 repeat: 1
 single: 1
@@ -10,4 +11,20 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
+0:Kawir/Ισόθεος/Kawir 'Ισόθεος' 01. Δαίμων.mp3
+1:Kawir/Ισόθεος/Kawir 'Ισόθεος' 02. Ύμνος στους ανέμους.mp3
+2:Kawir/Ισόθεος/Kawir 'Ισόθεος' 03. Εις Δήμητρα.mp3
+3:Kawir/Ισόθεος/Kawir 'Ισόθεος' 04. Ύμνος στον Απόλλων.mp3
+4:Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3
+5:Kawir/Ισόθεος/Kawir 'Ισόθεος' 06. Άδης.mp3
+6:Kawir/Ισόθεος/Kawir 'Ισόθεος' 07. Ισόθεος.mp3
+7:Kawir/Ισόθεος/Kawir 'Ισόθεος' 08. Πανσπερμία.mp3
+8:Macabre Omen/2015 - Gods of War - At War/01 - I See, The Sea!.mp3
+9:Macabre Omen/2015 - Gods of War - At War/02 - Gods Of War - At War.mp3
+10:Macabre Omen/2015 - Gods of War - At War/03 - Man Of 300 Voices.mp3
+11:Macabre Omen/2015 - Gods of War - At War/04 - Hellenes Do Not Fight Like Heroes, Heroes Fight Like Hellenes.mp3
+12:Macabre Omen/2015 - Gods of War - At War/05 - From Son To Father.mp3
+13:Macabre Omen/2015 - Gods of War - At War/06 - Rhodian Pride, Lindian Might.mp3
+14:Macabre Omen/2015 - Gods of War - At War/07 - Alexandros - Ode A'.mp3
+15:Macabre Omen/2015 - Gods of War - At War/08 - Alexandros - Ode B'.mp3
 playlist_end
