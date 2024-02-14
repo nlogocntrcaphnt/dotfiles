@@ -63,10 +63,13 @@ bindsym XF86AudioPrev exec --no-startup-id mpc --port 6601 previous
 
 
 #dmenu keybinds
-bindsym $mod+shift+u exec --no-startup-id gpg -d Documents/usernames.txt.gpg | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '{print $1}' | xclip -selection c
+bindsym $mod+shift+u exec --no-startup-id gpg -d Documents/usernames.txt.gpg | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '{print $1}' | xclip -selection c -r
 
 
-bindsym $mod+ctrl+s exec --no-startup-id cat Documents/symbols_list.txt | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '{print $1}' | cut -f1 -d "-" | xclip -selection c
+bindsym $mod+ctrl+s exec --no-startup-id export open_command=cat && export selected_path=/home/polyphemus/Documents && /home/polyphemus/Documents/scripts/explore.sh | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '{print $1}' | cut -f1 -d "-" | xclip -selection c -r
+
+
+bindsym $mod+ctrl+f exec --no-startup-id cat Documents/words_list.txt | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '{print $1}' | cut -f1 -d "-" | xclip -selection c -r
 
 
 #bindsym $mod+shift+b exec --no-startup-id ls ~/Documents/PDFs/ | grep ".pdf" | sort | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '$0="Documents/PDFs/"$0' | xargs -r -d '\n' cat | zathura -
@@ -294,7 +297,7 @@ exec --no-startup-id gnome-settings-daemon
 bindsym $mod+d exec --no-startup-id dmenu_run -i -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12'
 bindsym $mod+Shift+l exec --no-startup-id maim /tmp/lock.png && convert /tmp/lock.png -scale 10% -scale 1000% /tmp/lock.png && i3lock -i /tmp/lock.png
 bindsym --release Print exec --no-startup-id "maim -s | xclip -selection clipboard -t image/png"
-bindsym --release $mod+p exec --no-startup-id "maim -u -m 3 -s ~/Pictures/screenshots/$(date +%s).png" 
+bindsym --release $mod+p exec --no-startup-id "maim -u -m 3 -s ~/Pictures/screenshots/$(date +%s).jpg" 
 bindsym $mod+e exec --no-startup-id thunar ~/Downloads/
 #bindsym exec --no-startup-id $mod+Shift+w firefox
 

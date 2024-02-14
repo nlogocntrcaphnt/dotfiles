@@ -1,30 +1,48 @@
 sw_volume: 98
 audio_device_state:1:pulse audio
 state: pause
-current: 4
-time: 105.207000
+current: 14
+time: 41.814000
 random: 0
 repeat: 1
-single: 1
+single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Kawir/Ισόθεος/Kawir 'Ισόθεος' 01. Δαίμων.mp3
-1:Kawir/Ισόθεος/Kawir 'Ισόθεος' 02. Ύμνος στους ανέμους.mp3
-2:Kawir/Ισόθεος/Kawir 'Ισόθεος' 03. Εις Δήμητρα.mp3
-3:Kawir/Ισόθεος/Kawir 'Ισόθεος' 04. Ύμνος στον Απόλλων.mp3
-4:Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3
-5:Kawir/Ισόθεος/Kawir 'Ισόθεος' 06. Άδης.mp3
-6:Kawir/Ισόθεος/Kawir 'Ισόθεος' 07. Ισόθεος.mp3
-7:Kawir/Ισόθεος/Kawir 'Ισόθεος' 08. Πανσπερμία.mp3
-8:Macabre Omen/2015 - Gods of War - At War/01 - I See, The Sea!.mp3
-9:Macabre Omen/2015 - Gods of War - At War/02 - Gods Of War - At War.mp3
-10:Macabre Omen/2015 - Gods of War - At War/03 - Man Of 300 Voices.mp3
-11:Macabre Omen/2015 - Gods of War - At War/04 - Hellenes Do Not Fight Like Heroes, Heroes Fight Like Hellenes.mp3
-12:Macabre Omen/2015 - Gods of War - At War/05 - From Son To Father.mp3
-13:Macabre Omen/2015 - Gods of War - At War/06 - Rhodian Pride, Lindian Might.mp3
-14:Macabre Omen/2015 - Gods of War - At War/07 - Alexandros - Ode A'.mp3
-15:Macabre Omen/2015 - Gods of War - At War/08 - Alexandros - Ode B'.mp3
+0:2002 Electric Tears/01 - All In The Waiting.mp3
+1:2002 Electric Tears/02 - Sketches Of Spain (For Miles).mp3
+2:2002 Electric Tears/03 - Padmasana.mp3
+3:2002 Electric Tears/04 - Mustang.mp3
+4:2002 Electric Tears/05 - The Way To Heaven.mp3
+5:2002 Electric Tears/06 - Baptism Of Solitude.mp3
+6:2002 Electric Tears/07 - Kansas Storm.mp3
+7:2002 Electric Tears/08 - Datura.mp3
+8:2002 Electric Tears/09 - Mantaray.mp3
+9:2002 Electric Tears/10 - Witches On The Heath.mp3
+10:2002 Electric Tears/11 - Angel Monster.mp3
+11:2002 Electric Tears/12 - Electric Tears.mp3
+12:2002 Electric Tears/13 - Spell Of The Gypsies.mp3
+13:2012 Electric Sea/01 - Electric Sea.mp3
+14:2012 Electric Sea/02 - Beyond the Knowing.mp3
+15:2012 Electric Sea/03 - Swomee Swan.mp3
+16:2012 Electric Sea/04 - Point Doom.mp3
+17:2012 Electric Sea/05 - El Indio.mp3
+18:2012 Electric Sea/06 - La Wally.mp3
+19:2012 Electric Sea/07 - La Gavotte.mp3
+20:2012 Electric Sea/08 - Bachethead.mp3
+21:2012 Electric Sea/09 - Yokohama.mp3
+22:2012 Electric Sea/10 - Gateless Gate.mp3
+23:2012 Electric Sea/11 - The Homing Beacon.mp3
+24:2004 Population Override/01 - Unrestrained Growth.mp3
+25:2004 Population Override/02 - Too Many Humans.mp3
+26:2004 Population Override/03 - Population Override.mp3
+27:2004 Population Override/04 - Humans Vanish.mp3
+28:2004 Population Override/05 - Cruel Reality Of Nature.mp3
+29:2004 Population Override/06 - A Day Will Come.mp3
+30:2004 Population Override/07 - Earth Heals Herself.mp3
+31:2004 Population Override/08 - Clones.mp3
+32:2004 Population Override/09 - Super Human.mp3
+33:2004 Population Override/10 - ....mp3
 playlist_end

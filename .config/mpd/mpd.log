@@ -888,3 +888,919 @@ Mar 20 20:40 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. �
 Mar 20 20:46 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"
 Mar 20 20:52 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"
 Mar 23 02:03 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"
+May 13 17:35 : exception: Failed to decode /home/polyphemus/Music/Artists/Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3; Failed to open '/home/polyphemus/Music/Artists/Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3': No such file or directory
+May 13 17:35 : player: played "Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3"
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A2. Montreal.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A1. Foil.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 10 - Μαλεβιζιώτης.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 09 - Ιντά 'Χετε Γύρου Γύρου (Ριζίτικο).flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 08 - Σταφιδιανός.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 07 - Ως Τρέμουν Τ' Άστρα Τ' Ουρανού.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 06 - Με Των Πολλών Τη Λογική.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 05 - Μαύρη Κορφή.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 04 - Κοντυλιές.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 03 - Σαν Το Νερό Του Ποταμού.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 02 - Μη Χαμηλώνεις Τα Φτερά.flac
+Jun 28 22:03 : update: added 2012 Electric Sea/08 - Bachethead.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Όσο Κι Άν Δέρνει Ο Άνεμος (2012)/Giorgos Xylouris - Όσο Κι Άν Δέρνει Ο Άνεμος (2012) - 01 - Όσο Κι Άν Δέρνει Ο Άνεμος.flac
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/09 Kontylies Pentozali.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/08 Erotókritos.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/07 Barbouni.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/06 Giasemaki.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/05 Lava.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/04 Rizitiko.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/03 Syrta.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/02 Dafni.mp3
+Jun 28 22:03 : update: removing Ψαρογιώργης/Giorgis Xylouris, Stelios Petrakis, Periklis Papapetropoulos - If I Greet The Mountains/01 Castellas.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/12. Pote Tha Kami Xasteria (Rizitiko).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/11. Avto To Ah Den In` Fotia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/10. Petra Vouvi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/09. Gianda 'se Nihta Skotini.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/08. Aftoshediasmos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/07. To Ah Dendro De Ginete.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/06. O Tsoutsoulos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/05. Na Kateha Pou Meni O Aitos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/04. Andras Pou Den Ekatehe.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/03. O Dias (Imnos Ston Psiloriti).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/02. Pou 'ne O Keros, Poulaki Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 2/01. Na 'hen I Thalassa Vouna.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/12. Kimate O Ilios (Rizitiko).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/11. Th' Anevo Ston Ourano.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/10. Mikio Kopelidaki Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/09. Farangi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/08. To Meraklidiko Pouli.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/07. I Kivernoune Dio Thei.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/06. Mana, Louge Me (Rizitiko).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/05. O Kir Vorias (Rizitiko).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/04. I Tigri.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/03. Em' Onde Pas Stin Ekklisia (Maleviziotis).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/02. Koundouro Koundouro Skini.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Live/2010-San Pirovatis (2CD)/CD 1/01. Na Kamo Thelo Tarahi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/16. Den Klene I Dinates Kardies.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/15. Posa Keria.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/14. O Kir Vorias.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/13. O Dias.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/12. O Andras.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/11. Sto Koritsi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/10. I Andres I Fanisimi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/09. Th΄ Anevo Ston Ourano (Petroperdika).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/08. Pramateftis Katevene.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/07. I Tigri.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/06. To Megalio Tou Psilorefti.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/05. Filendem.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/04. Zoi San De Mou Harises.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/03. Anasa Ap΄ Tin Anasa Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/02. To Farangi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 2/01. Ton Ilio Eho Sindrofia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/16. Angel Dying (Petroperdika).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/15. Petra Vouvi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/14. Me Ta Maounosidera.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/13. Erotokritos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/12. Dromous Ke Topous.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/11. Kato Sti Rodo.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/10. Kaike To Galaxidi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/09. Dourou Dourou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/08. Kalotiha ΄ne Ta Vouna.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/07. Sopeno.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/06. Oso Varoun Ta Sidera.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/05. Stou Piromahou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/04. Arapina.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/03. Thalassa Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/02. Dias.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2014-Kerasmata Tou Dia (2CD)/CD 1/01. Ego Den Ime Kianenous.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/14. Κούντουρο Κούντουρο Σκοινί.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/13. Το Δαχτυλίδι.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/12. Ταξίδι.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/11. Απόψε Κρύος Έπιασε (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/10. Ζηλιάρικο.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/09. Έμ Όντε Πας Στην Εκκλησιά (Μαλεβιζιώτικος).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/08. Εκατο Δυο Αρχοντόπουλα (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/07. Ξεκινάει Μια Ψαροπούλα.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/06. Ο Μαουκάς.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/05. Η Μνήμη Που Πληγώνει.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/04. Θ' Ανεβώ Στον Ουρανό.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/03. Τούρκα Είσαι Για Ρωμιά.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/02. Ζηλεύω Του Σταυραετού (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 3/01. Παλιό Κρασί Είν' Η Σκέψη.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/14. Τ' Αγριμάκια (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/13. Το Τραγούδι Του Γύφτου.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/12. Όμορφο Νιο Εζύγωνε (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/11. Λυράκια.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/10. Πάντα Ψηλά Στέκει Η Κορφή (Συρτός).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/09. Το Όνειρο (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/08. Λευτεριά.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/07. Το Μερακλίδικο Πουλί.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/06. Όταν Σ' Ανιστορηθώ (Συρτός).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/05. Γυρισμός.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/04. Ο Πόθος Της Λευτεριάς (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/03. Κάνει Πως Βλέπει Αριστερά.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/02. Μάνα, Λούσε Με (Συρτός).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 2/01. Kρίνος.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/14. Πότε Θα Κάνει Ξαστεριά (Ριζίτικο).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/13. Κουτρουλιανό Νερό (Παραδοσιακό).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/12. Ο Δίας (Ύμνος Στον Ψηλορείτη).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/11. Παλμός.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/10. Μανάκι Μου (Παραδοσιακό).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/09. Άνοιξιάτικο Ξύπνημα.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/08. Έφυγες Ένα Βράδυ (Καλαματιανό).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/07. Μόνο Εκείνος Π' Αγαπά.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/06. Για Δες Πως Με Κατάντησες (Κοντυλιές).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/05. Ο Πραματευτής.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/04. Φαράγγι.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/03. Σαν Είναι Δυο Δέντρα Μαζί.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/02. Ως Είναι Η Σπίθα Λαμπερή.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/2010-42 Megales Erminies (3CD)/CD 1/01. Η Τίγρη.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/12. Solo Lyra.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/11. Anogiana Sirta.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/10. Pendozalis.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/09. Kontyllies.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/08. Na Kamo Theli Tarahi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/07. Eskeftika Na S' Arnitho.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/06. Maleviziotikos Horos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/05. Rethemniotika Sirta.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/04. Sousta.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/03. Solo Laouto.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/02. Aftoshediasmi Me Lyra.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Compilations/1997-Cretan Music - The Way Of Psarantonis (Instrumental)/01. Sose Me Giatre Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/13. Mahi Stin Kriti.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/12. Thelo Na Miliso.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/11. Simvoules S` Ena Neo Lyrari.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/10. Panthiras.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/09. Odysseas.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/08. Iraklitos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/07. Kordova.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/06. Tambouras.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/05. To Sirto Tou Potamou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/04. Angathi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/03. To Tragoudi Tou Polemou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/02. Albatros.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2014-Pera Apo Ta Sinora/01. Orfeas.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/11. Petra Vouvi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/10. Mia Parastia Ti Skepsi Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/09. Krima Ton Kopo.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/08. Ta Matia Sou Mou Ferane.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/07. Petaxe T` Armata Kardia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/06. Pefti To Vrohino Nero.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/05. Den Pezo Petra Se Dendro.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/04. Ekia Pou Thelo.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/03. Esi Tharrispos I Pligi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/02. Evala Ego Vasilikous.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2013-Na Kamo Thelo Tarahi/01. A) Na Kamo Thelo Tarahi B) Lousakiano Krasi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/12. Zilevo Ekino To Dendro.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/11. Kanis Gia Mena Den Poni.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/10. Sa Dakri.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/09. Ipa To Poso S` Agapo.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/08. To Stavro Tou Golgotha.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/07. Tris Kalogiri Kritiki.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/06. O Nous Mou Epa Ki Onous Mou Alli.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/05. Gi Afto Zilevo Ta Poulia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/04. Akri Tou Ouranou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/03. Onde Sou Thelo Thimitho.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/02. Tin Petra Tsi Ipomonis.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2007-Na `hen I Thalassa Vouna (Had The Sea Mountains)/01. Na `hen I Thalassa Vouna.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/19. O Epanastatis (Pote Tha Kami Xasteria).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/18. T' Agrimakia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/17. To Xeno Me To Mavro Tou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/16. Ithela Ke Na Kateha (Omorfa Stolis' O Theos Ton Kosmo).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/15. Exorise Me I Mira Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/14. O Filakismenos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/13. To Oniro.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/12. Mana, Louge Me.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/11. O Pramateftis.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/10. O Pothos Tis Lefterias.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/09. Ekato Dio Arhontopoula.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/08. To Anarotima Gia Tin Kori.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/07. To Pervoli.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/06. O Tsoutsoulos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/05. Ego Tsi Nihtes Porpato.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/04. Zilevo Tou Stavraetou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/03. O Kir Vorias.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/02. Ekia Pou Smigoun I Keri.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/2002-Rizitika/01. Andrianoupoli.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/16. Esi `se San Ti Rodaria.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/15. Andras Pou Den Ekatehe.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/14. Andras Pou Den Ekatehe.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/13. Askopandoura (Sigano) (Instrumental).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/12. Em` Onde Pas Stin Ekklisia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/11. Efiges Ena Vradi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/10. Messaritikes Kontylies (Instrumental).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/09. To Meraklidiko Pouli.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/08. Koundouro Koundouro Skini.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/07. Omorfo Nio Ezigone.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/06. O Dias (Ymnos Ston Filoriti).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/05. Tha Anevo Ston Ourano.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/04. Kani Pos Vlepi Aristera.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/03. Kardia In` Ekeni Ke Poni.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/02. Sta Keramia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1999-Ideon Andron/01. Farangi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/20. Handiperas.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/19. Theros.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/18. Ehoun Oli Tous Pethani.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/17. Kategida.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/16. Omorfos Pou 'ne O Kipos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/15. Kita Ta Vouna.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/14. I Mnimi Pou Pligoni.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/13. Horos Kouriton.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/12. Pidihtos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/11. Girismos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/10. Haniotika Sirta.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/09. Taxidi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/08. Solo Lyra.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/07. Kastrinos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/06. Spathies.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/05. Lyrakia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/04. Palmos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/03. Pendozalia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/02. Etheras.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1998-Nogo (I Reckon)/01. Imnos Psiloriti.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/16. Koutrouliano Nero.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/15. Maleviziotis.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/14. Trizalis.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/13. Min To Tha Rthis Pos S' Agapo.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/12. Rethemno.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/11. Angelokamoti.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/10. Palio Krasi In' I Skepsi Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/09. Ortses.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/08. M` Tsi Mikrous Imoun Mikros.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/07. Pousouna Ke De S` Evlepa.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/06. Kondilies.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/05. Ohendra.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/04. Diamanti Ke Roubi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/03. San Ine Dio Dendra Mazi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/02. Krinos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1994-Palio Krasi In` I Skepsi Mou (My Thoughts Are Like Wine Old)/01. Homa Ke Fos (Instrumental).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/11. Erotokritos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/10. Is Ta Chania In' Ena Nero.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/09. Oso Varoun Ta Sidera.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/08. Mana Poli Malonis Me.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/07. Syrtos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/06. Mia Perdika.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/05. Ena Pouli Iha Sto Klouvi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/04. Mikro Kopelidaki Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/03. Agrimia Ki Agrimakia Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/02. Ta Koulourakia.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1991-O Gios Tou Psiloriti (Son Of Psiloritis)/01. Petres Peto Tou Fengariou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/09. Pendozalia.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/09 - Yokohama.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/08. Apopse Krios Epiase (Rizitiko).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/07. Panda Psila Steki I Korfi (Syrtos).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/06. Parapanoume Mias Psihis (Syrtos).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/05. Kontylies.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/04. Egine O Betis Sou Giali (Syrtos).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/03. Sose Me Giatre Mou (Tourka Ise Gia Romia) (Tragoudi).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/02. Den Kelaidi Blio To Pouli (Syrtos).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1989-Ta Merakia Tou Psarantoni/01. Gia Des Pos Me Katandises (Tragoudi) (Kontylies).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/10. Solo Laouto.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/09. Pidihtos.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/08. Haniotiko Syrto.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/07. Pikio Kopelidaki Mou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/06. Ena Pouli Iha Sto Klouvi.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/05. Is Ta Hania In` Ena Nero.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/04. More Si Pou Katevenes.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/03. Perdikaki (Kontylies).mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/02. Petres Peto Tou Fengariou.mp3
+Jun 28 22:03 : update: removing Ψαραντωνης/Albums/1982-Anastorimata/01. Solo Lyra.mp3
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/09 Rescue.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/08 The SR-71 Blackbird Was Almost Brought Back for the War on Terror.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/07 The Other Blackbirds Required Shipping to Their Final Resting Places Which Necessitated Their Wings Being Sawed Off by Worldwide Aircraft Recovery.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/06 Never Reveal the Secrets of the Worlds Most Ominous Bird.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/05 Twilight Nail in Its Coffin.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/04 All the Molds and Dies Destroyed.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/03 Nothing Lived There.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/02 Outrunning Machine Gun Bullets.flac
+Jun 28 22:03 : update: removing Vatican Shadow/SR-71 Blackbird Survivors (web)/01 Behold the SR-71 Blackbird's Nest at Dawn.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/10 - Manhattan Is A Haunted City.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/09 - Paradise Lost (Hidden Face Of The Devil).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/08 - Exorcism Training Course.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/07 - Loyal To Evil.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/06 - Deliverance From Possession.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/05 - Return To The Tree Of Knowledge.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/04 - October Road Between Life And Death.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/03 - Guide Within The Waters Of Tiamat.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/02 - Iconophilia (Death On Display).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2019 - Church Of All Hallows' Eve'/01 - Torchlight (Church Of All Hallows' Eve).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/120. Vatican Shadow - Waco Postmortem (Murrah).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/119. Vatican Shadow - Shadows On The Courthouse Wall.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/118. Vatican Shadow - McVeigh Figure.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/117. Vatican Shadow - Inside The Pages Of A Phonebook.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/116. Vatican Shadow - Small Explosives And Blasting Caps.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/115. Vatican Shadow - Living On And Off At The Shadows Motel.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/114. Vatican Shadow - Manufactured Silencers Under Direct Orders.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/113. Vatican Shadow - Arms Of Yahweh.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/112. Vatican Shadow - Descended On Guayanilla (CNN).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/111. Vatican Shadow - Theology Is Life And Death (Pakistan).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/110. Vatican Shadow - Texarkana Resistance.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/109. Vatican Shadow - Machine-Gunning Of The Davidians.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/108. Vatican Shadow - Koresh Lamb.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/107. Vatican Shadow - Fort Hood Again.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/106. Vatican Shadow - Koresh Babylon.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/105. Vatican Shadow - FBI God.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/104. Vatican Shadow - ATF Sinner Messiah.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/103. Vatican Shadow - It's To Come.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/102. Vatican Shadow - Desert Storm (Waco).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2014 - Death Is Unity With God/101. Vatican Shadow - Al Qaeda (Branch Davidian).flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-08. Jet Fumes Above The Reflecting Pool.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-07. Not The Son Of Desert Storm, But The Child Of Chechnya.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-06. Remember Your Black Day.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-05. Enter Paradise.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-04. Contractor Corpses Hung Over The Euphrates River.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-03. Muscle Hijacker Tribal Affiliation.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-02. Tonight Saddam Walks Amidst Ruins.flac
+Jun 28 22:03 : update: removing Vatican Shadow/2013 - Remember Your Black Day/1-01. Circumstances Quickly Became Questioned.flac
+Jun 28 22:03 : update: removing Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/06. Ayatollah Ferocity (The Refinery At Abadan).flac
+Jun 28 22:03 : update: removing Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/05. Moving Secret Money.flac
+Jun 28 22:03 : update: removing Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/04. Taxi Journey Through The Teeming Slums Of Tehran.flac
+Jun 28 22:03 : update: removing Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/03. Uncontrollable Oasis (Real Life Spy Mystery Ends With Scientist Hanged In Iran).flac
+Jun 28 22:03 : update: removing Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/02. Rehearsing For The Attack.flac
+Jun 28 22:03 : update: removing Vatican Shadow/[SPIN134] Vatican Shadow - Persian Pillars Of The Gasoline Era [2020]/01. Predawn Coup D’etat (Schwarzkopf Duffle Bags Of Rials).flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/D3 - Paris Dub.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/D2 - 300 Hangovers A Year.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/D1 - Eating Glue.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/C2 - We Aint.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/C1 - Lovin U Ahh Shit.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/B2 - Machines Our Coming.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/B1 - Paris Dub 3.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/A3 - Headtrack.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/A2 - Transmission 5.flac
+Jun 28 22:03 : update: removing Paranoid London/Paranoid London ‎– Paranoid London (2014)/A1 - Light Tunnel.flac
+Jun 28 22:03 : update: removing Macabre Omen/The Ancient Returns/05 - Hellas - Ode A  Ode B.mp3
+Jun 28 22:03 : update: removing Macabre Omen/The Ancient Returns/04 - The Perfect Sound Of North Vs. South.mp3
+Jun 28 22:03 : update: removing Macabre Omen/The Ancient Returns/03 - An Ode To Rhode.mp3
+Jun 28 22:03 : update: removing Macabre Omen/The Ancient Returns/02 - A Call From Gods To God.mp3
+Jun 28 22:03 : update: removing Macabre Omen/The Ancient Returns/01 - In Memory....mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/08 - Alexandros - Ode B'.mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/07 - Alexandros - Ode A'.mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/06 - Rhodian Pride, Lindian Might.mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/05 - From Son To Father.mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/04 - Hellenes Do Not Fight Like Heroes, Heroes Fight Like Hellenes.mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/03 - Man Of 300 Voices.mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/02 - Gods Of War - At War.mp3
+Jun 28 22:03 : update: removing Macabre Omen/2015 - Gods of War - At War/01 - I See, The Sea!.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 08. Πανσπερμία.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 07. Ισόθεος.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 06. Άδης.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 05. Χαίρε Βάκχε.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 04. Ύμνος στον Απόλλων.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 03. Εις Δήμητρα.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 02. Ύμνος στους ανέμους.mp3
+Jun 28 22:03 : update: removing Kawir/Ισόθεος/Kawir 'Ισόθεος' 01. Δαίμων.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/08 The Descent of Persephone.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/07 The Taurian Artemis.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/06 Hail To The Three Shaped Goddess.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/05 To Mother Moon.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/04 To Diouscuri.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/03 Hercules Enraged.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/02 Dionysus.mp3
+Jun 28 22:03 : update: removing Kawir/Father Sun, Father Moon/01 To the Sovereign Sun.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/09. Nekydaimon.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/08. Typhoon Magic.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/07. Ode to Time.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/06. The Curse of the Old Witch.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/05. Thunderstorm.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/04. Katadesmos.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/03. Bind Enemies.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/02. Oneiropompos.mp3
+Jun 28 22:03 : update: removing Kawir/Arai/01. Telchines the Magic Race.mp3
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/13 - Logikal Nonsense.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/12 - Into The Space.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/11 - Nitedrive.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/10 - Mantrax.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/09 - UVA.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/08 - Theychx.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/07 - Another Time (Revisited).flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/06 - Train-Trac.1.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/05 - Substance Abuse.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/04 - Dimension Intrusion.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/03 - Slac.flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/02 - F.U..flac
+Jun 28 22:03 : update: removing FUSE/FUSE - Dimension Intrusion/01 - A New Day.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 15 Newsround (Craven mix).flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 14 Bureau de Rave (Parodigy Mix).flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 13 Capsule in Space (Bonus Slam).flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 12 Eurozone.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 11 Bureau de Rave.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 10 Fossil Funk.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 09 Newsround.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 08 Waltzacid.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 07 Meadow Track.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 06 Galahad.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 05 Darqcyde.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 04 Capsule in Space.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 03 Housedream.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 02 Flangeslab.flac
+Jun 28 22:03 : update: removing Ceephax/Ceephax Acid Crew - Box Steady/Ceephax Acid Crew - Box Steady - 01 Amigo.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/10 Rsdio.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/09 Overand.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/08 Gnit.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/07 C_Pach.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/06 Eutow.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/05 Stud.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/04 Rotar.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/03 Leterel.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/02 Clipper.flac
+Jun 28 22:03 : update: removing Autechre/Tri Repetae/01 Dael.flac
+Jun 28 22:03 : update: removing Autechre/Anti EP/Autechre (Anti EP)-[03b]-Flutter [33 RPM].mp3
+Jun 28 22:03 : update: removing Autechre/Anti EP/Autechre (Anti EP)-[03]-Flutter.mp3
+Jun 28 22:03 : update: removing Autechre/Anti EP/Autechre (Anti EP)-[02]-Djarum.mp3
+Jun 28 22:03 : update: removing Autechre/Anti EP/Autechre (Anti EP)-[01]-Lost.mp3
+Jun 28 22:03 : update: removing Autechre/2001 Confield/10 - MCR Quarter.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/09 - Lentic Catachresis.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/08 - Uviol.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/07 - Eidetic Casein.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/06 - Bine.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/05 - Parhelic Triangle.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/04 - Sim Gishel.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/03 - Pen Expers.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/02 - Cfern.flac
+Jun 28 22:03 : update: removing Autechre/2001 Confield/01 - VI Scose Poise.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/12 Autechre - Untitled.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/11 Autechre - Drane2.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/10 Autechre - Arch Carrier.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/09 Autechre - Caliper Remote.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/08 Autechre - Corc.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/07 Autechre - Under Boac.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/06 Autechre - Fold4, Wrap5.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/05 Autechre - Vose In.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/04 Autechre - Melve.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/03 Autechre - Rae.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/02 Autechre - 777.flac
+Jun 28 22:03 : update: removing Autechre/1998 LP5/01 Autechre - Acroyear2.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/11 - 444.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/10 - lowride.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/09 - windwind.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/08 - maetl.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/07 - doctrine.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/06 - eggshell.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/05 - basscadet.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/04 - bronchus 2.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/03 - autriche.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/02 - bike.flac
+Jun 28 22:03 : update: removing Autechre/1994 Incunabula/01 - kalpol introl.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/11 - Teartear.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/10 - Nil.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/09 - Yulquen.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/08 - Further.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/07 - Nine.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/06 - Piezo.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/05 - Glitch.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/04 - Slip.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/03 - Silverside.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/02 - Montreal.flac
+Jun 28 22:03 : update: removing Autechre/1994 Amber/01 - Foil.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/D3. Teartear.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/D2. Nil.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/D1. Yulquen.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/C2. Further.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/C1. Nine.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/B3. Piezo.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/B2. Glitch.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/B1. Slip.flac
+Jun 28 22:03 : update: removing Autechre/1994 - Amber (Warp Records WARP LP 25) FLAC 24bit-96kHz/A3. Silverside.flac
+Jun 28 22:03 : update: added 2012 Electric Sea/01 - Electric Sea.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/11 - The Homing Beacon.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/06 - La Wally.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/10 - Gateless Gate.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/05 - El Indio.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/02 - Beyond the Knowing.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/03 - Swomee Swan.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/07 - La Gavotte.mp3
+Jun 28 22:03 : update: added 2012 Electric Sea/04 - Point Doom.mp3
+Jun 28 22:03 : update: added 2004 Population Override/05 - Cruel Reality Of Nature.mp3
+Jun 28 22:03 : update: added 2004 Population Override/10 - ....mp3
+Jun 28 22:03 : update: added 2004 Population Override/03 - Population Override.mp3
+Jun 28 22:03 : update: added 2004 Population Override/01 - Unrestrained Growth.mp3
+Jun 28 22:03 : update: added 2004 Population Override/07 - Earth Heals Herself.mp3
+Jun 28 22:03 : update: added 2004 Population Override/04 - Humans Vanish.mp3
+Jun 28 22:03 : update: added 2004 Population Override/09 - Super Human.mp3
+Jun 28 22:03 : update: added 2004 Population Override/02 - Too Many Humans.mp3
+Jun 28 22:03 : update: added 2004 Population Override/06 - A Day Will Come.mp3
+Jun 28 22:03 : update: added 2004 Population Override/08 - Clones.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/02 - Sketches Of Spain (For Miles).mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/03 - Padmasana.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/08 - Datura.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/10 - Witches On The Heath.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/05 - The Way To Heaven.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/07 - Kansas Storm.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/09 - Mantaray.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/13 - Spell Of The Gypsies.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/01 - All In The Waiting.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/11 - Angel Monster.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/12 - Electric Tears.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/04 - Mustang.mp3
+Jun 28 22:03 : update: added 2002 Electric Tears/06 - Baptism Of Solitude.mp3
+Jun 28 22:12 : player: played "2004 Population Override/02 - Too Many Humans.mp3"
+Jun 28 22:20 : player: played "2004 Population Override/02 - Too Many Humans.mp3"
+Jun 28 23:51 : player: played "2002 Electric Tears/09 - Mantaray.mp3"
+Jul 28 21:09 : player: played "2002 Electric Tears/09 - Mantaray.mp3"
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/07 - Psarantonis & Ensemble - Syrtos.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/04 - Psarantonis & Ensemble - Mikro Kopelidaki Mou.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/08 - Psarantonis & Ensemble - Mana Poly Malonis Me.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/01 - Psarantonis & Ensemble - Petres Peto Tou Fengariou.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/02 - Psarantonis & Ensemble - Ta Koulourakia.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/05 - Psarantonis & Ensemble - Ena Pouli Icha Sto Klouvi.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/06 - Psarantonis & Ensemble - Mia Perdika.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/03 - Psarantonis & Ensemble - Agrimia Ki Agrimakia Mou.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/10 - Psarantonis & Ensemble - Is Ta Chania Ein' Ena Nero.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/09 - Psarantonis & Ensemble - Oso Varoun Ta Sidera.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/11 - Psarantonis & Ensemble - Erotokritos.flac
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/13 Askopandoura (Sigano) (Instrumental).mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/10 Messaritikes Kontylies (Instrumental).mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/16 Esi `se San Ti Rodaria.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/11 Efiges Ena Vradi.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/04 Kani Pos Vlepi Aristera.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/06 O Dias (Ymnos Ston Filoriti).mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/14 Andras Pou Den Ekatehe.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/02 Sta Keramia.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/05 Tha Anevo Ston Ourano.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/09 To Meraklidiko Pouli.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/08 Koundouro Koundouro Skini.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/03 Kardia In` Ekeni Ke Poni.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/15 Andras Pou Den Ekatehe.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/01 Farangi.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/07 Omorfo Nio Ezigone.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/12 Em` Onde Pas Stin Ekklisia.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Ideon Andron/17. Η Τίγρη.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[07] Three cretan monks.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[04] Edge of the sky (feat. Niki Xylouri).mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[03] When I yearn for you.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[08] The martyr's cross.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[05] Lucky are the birds (feat. Niki Xylouri).mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[11] Nobody cares for me.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[06] Displaced thoughts.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[12] Τo be that tree.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[01] Ηad The sea mountains.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[10] Like a teardrop.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[09] I confessed I love you.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[02] Pedestal of patience.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/02 - Ψαραντώνης - Αιθέρας.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/14 - Ψαραντώνης - Η μνήμη που πληγώνει.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/07 - Ψαραντώνης - Καστρινός.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/01 - Ψαραντώνης - Ύμνος Ψηλορείτη.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/03 - Ψαραντώνης - Πεντοζάλια.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/20 - Ψαραντώνης - Χαντίπερας.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/04. Παλμός.mp3
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/13 - Ψαραντώνης - Χορός Κουρητών.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/17 - Ψαραντώνης - Καταιίιδα.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/09 - Ψαραντώνης - Ταξίδι.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/05 - Ψαραντώνης - Λυράκια.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/10 - Ψαραντώνης - Χανιώτικα Συρτά.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/19 - Ψαραντώνης - Θέρος.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/18 - Ψαραντώνης - Έχουνόλοι τους πεθάνει.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/08 - Ψαραντώνης - Σόλο Λυρα.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/15 - Ψαραντώνης - Κοίτα τα βουνά.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/16 - Ψαραντώνης - Όμορφος που 'ναι ο κήπος.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/12 - Ψαραντώνης - Πηδηχτός.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/06 - Ψαραντώνης - Σπαθιές.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/04 - Ψαραντώνης - Παλμός.flac
+Jul 28 21:09 : update: added Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/11 - Ψαραντώνης - Γυρισμός.flac
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0010
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0009
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0008
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0007
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0006
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0005
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0004
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0003
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0002
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0001
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0011
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0010
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0009
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0008
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0007
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0006
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0005
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0004
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0003
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0002
+Jul 28 21:09 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0001
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0020
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0019
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0018
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0017
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0016
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0015
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0014
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0013
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0012
+Jul 28 21:09 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0011
+Jul 28 21:13 : player: played "Ψαραντώνης/Ideon Andron/01 Farangi.mp3"
+Jul 28 21:47 : player: played "Ψαραντώνης/Ideon Andron/17. Η Τίγρη.mp3"
+Jul 29 02:53 : player: played "Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/09 - Psarantonis & Ensemble - Oso Varoun Ta Sidera.flac"
+Jul 31 06:10 : player: played "Ψαραντώνης/Ideon Andron/14 Andras Pou Den Ekatehe.mp3"
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/04. Tantra Mountains.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/06. Atomic Sites.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/07. MIT Research Theme.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/09. Baltic Drone.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/03. Roadblocks.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/01. Beyond The Widerness.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/02. Lakes On Side Roads.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/05. No Morality.flac
+Sep 03 23:20 : update: added Legowelt/Secret Microcassettes (2011) [FLAC]/08. Arp And Moog Improvisation.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/03. Small Town Television Mast.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/02. Manhunter.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/10. The Lost Border.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/01. Monday Morning Fog Over Bonn Airport 1985.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/05. Hotel Tap.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/09. Tragic Sadness Of F.Falckenhaus.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/07. Thursday Telephasis.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/06. Spektr-001.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/08. Rundfunk.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/04. The Loneliness Of Irena S_.flac
+Sep 03 23:20 : update: added Legowelt/The Lost Border (2008) [FLAC]/11. Wuppertal Schwebebahn.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/05 - Escape From Kgb Agents in the Old Town.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/07 - Operation November.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/02 - Clouds Over Riga.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/12 - Forest Patrol.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/09 - Meeting in Gorki Park.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/13 - Debriefing at Bonn Hq.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/03 - Siberian Missiles.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/01 - My Cold War.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/11 - Baltic Borderzone.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/08 - A Tupolev Disappears in the Darkness.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/10 - A Vast Land.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/14 - Falckenhaus Arpeggiator.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/04 - Surveillance in the Hotel Lobby.flac
+Sep 03 23:20 : update: added Legowelt/FLAC/06 - Secret Photographs.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/01. My Cold War.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/02. Siberian Missiles.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/08. The Europa Judgement.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/10. The Tragic Sadness Of F. Falckenhaus.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/05. MIT Research Theme.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/09. Manhunter.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/04. Transylvania Airlines.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/06. Falckenhaus Cosmic Dance.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/07. Alpenland Detective.flac
+Sep 03 23:20 : update: added Legowelt/Tupolev System (2018) [FLAC]/03. Rainy Roads Through Gypsy Forest.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/01. Transylvania Airlines.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/12. Alpenland Detective.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/15. The Europa Judgement.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/05. Suspicions.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/10. Gardens Of Schloss Ambrass.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/09. Tension.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/04. Typhoon Papers.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/07. Trams Of Prague.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/08. Austrian Border.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/11. Falckenhaus Cosmic Dance.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/02. Rainy Roads Through Gypsy Forest.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/13. Marburg.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/03. Ultra Sylvam.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/06. The Clouds Fall Low.flac
+Sep 03 23:20 : update: added Legowelt/The Europa Judgement (2008) [FLAC]/14. Red Skies.flac
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0011
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0010
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0009
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0008
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0007
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0006
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0005
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0004
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0003
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0002
+Sep 03 23:20 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0001
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0020
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0019
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0018
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0017
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0016
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0015
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0014
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0013
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0012
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0011
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0010
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0009
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0008
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0007
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0006
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0005
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0004
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0003
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0002
+Sep 03 23:20 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0001
+Sep 03 23:20 : player: played "Ψαραντώνης/Ideon Andron/14 Andras Pou Den Ekatehe.mp3"
+Sep 03 23:31 : player: played "Legowelt/FLAC/01 - My Cold War.flac"
+Sep 04 00:04 : player: played "Legowelt/FLAC/02 - Clouds Over Riga.flac"
+Sep 04 00:19 : player: played "Legowelt/FLAC/03 - Siberian Missiles.flac"
+Sep 04 00:22 : player: played "Legowelt/FLAC/05 - Escape From Kgb Agents in the Old Town.flac"
+Sep 04 01:29 : player: played "Legowelt/FLAC/06 - Secret Photographs.flac"
+Sep 04 15:23 : player: played "Legowelt/FLAC/06 - Secret Photographs.flac"
+Sep 05 01:10 : player: played "Legowelt/FLAC/07 - Operation November.flac"
+Sep 06 16:18 : player: played "Legowelt/FLAC/07 - Operation November.flac"
+Sep 13 19:32 : player: played "Legowelt/FLAC/08 - A Tupolev Disappears in the Darkness.flac"
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/203 - Songs- Ohia - Just Be Simple (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/107 - Songs- Ohia - John Henry Split My Heart.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/208 - Songs- Ohia - The Big Game Is Every Night (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/101 - Songs- Ohia - Farewell Transmission.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/108 - Songs- Ohia - Hold On Magnolia.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/110 - Songs- Ohia - Whip-Poor-Will.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/103 - Songs- Ohia - Just Be Simple.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/105 - Songs- Ohia - The Old Black Hen.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/209 - Songs- Ohia - Whip-Poor-Will (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/202 - Songs- Ohia - I've Been Riding With The Ghost (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/104 - Songs- Ohia - Almost Was Good Enough.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/205 - Songs- Ohia - Peoria Lunch Box Blues (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/109 - Songs- Ohia - The Big Game Is Every Night.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/102 - Songs- Ohia - I've Been Riding With The Ghost.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/207 - Songs- Ohia - Hold On Magnolia (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/106 - Songs- Ohia - Peoria Lunch Box Blues.flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/204 - Songs- Ohia - The Old Black Hen (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/201 - Songs- Ohia - Farewell Transmission (Demo).flac
+Sep 13 19:32 : update: added [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/206 - Songs- Ohia - John Henry Split My Heart (Demo).flac
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0011
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0010
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0009
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0008
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0007
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0006
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0005
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0004
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0003
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0002
+Sep 13 19:32 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0001
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0020
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0019
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0018
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0017
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0016
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0015
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0014
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0013
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0012
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0011
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0010
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0009
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0008
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0007
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0006
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0005
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0004
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0003
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0002
+Sep 13 19:32 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0001
+Sep 14 21:40 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/101 - Songs- Ohia - Farewell Transmission.flac"
+Sep 14 21:54 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/102 - Songs- Ohia - I've Been Riding With The Ghost.flac"
+Sep 14 21:59 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/104 - Songs- Ohia - Almost Was Good Enough.flac"
+Sep 14 22:08 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/108 - Songs- Ohia - Hold On Magnolia.flac"
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0020
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0019
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0018
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0017
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0016
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0015
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0014
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0013
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0012
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0011
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0010
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0009
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0008
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0007
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0006
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0005
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0004
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0003
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0002
+Sep 19 11:26 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0001
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0011
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0010
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0009
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0008
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0007
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0006
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0005
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0004
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0003
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0002
+Sep 19 11:26 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0001
+Sep 20 07:50 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/101 - Songs- Ohia - Farewell Transmission.flac"
+Sep 26 10:03 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/101 - Songs- Ohia - Farewell Transmission.flac"
+Sep 26 10:04 : output: Failed to play on "pulse audio" (pulse): suspended
+Sep 26 10:04 : exception: Failed to open audio output
+Sep 26 10:10 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/02. Rainy Roads Through Gypsy Forest.flac"
+Sep 26 10:12 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/03. Ultra Sylvam.flac"
+Sep 26 10:14 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/04. Typhoon Papers.flac"
+Sep 26 10:16 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/05. Suspicions.flac"
+Sep 26 10:20 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/06. The Clouds Fall Low.flac"
+Sep 26 10:23 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/07. Trams Of Prague.flac"
+Sep 26 10:25 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/08. Austrian Border.flac"
+Sep 26 10:29 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/09. Tension.flac"
+Sep 26 10:30 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/10. Gardens Of Schloss Ambrass.flac"
+Sep 26 10:34 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/11. Falckenhaus Cosmic Dance.flac"
+Sep 26 10:37 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/12. Alpenland Detective.flac"
+Sep 26 10:40 : player: played "Legowelt/The Europa Judgement (2008) [FLAC]/13. Marburg.flac"
+Sep 26 10:47 : player: played "Legowelt/The Lost Border (2008) [FLAC]/02. Manhunter.flac"
+Sep 26 10:52 : player: played "Legowelt/The Lost Border (2008) [FLAC]/03. Small Town Television Mast.flac"
+Sep 26 10:53 : player: played "Legowelt/The Lost Border (2008) [FLAC]/04. The Loneliness Of Irena S_.flac"
+Sep 28 10:16 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/101 - Songs- Ohia - Farewell Transmission.flac"
+Sep 29 20:11 : player: played "Legowelt/Tupolev System (2018) [FLAC]/02. Siberian Missiles.flac"
+Nov 03 10:34 : player: played "Legowelt/Tupolev System (2018) [FLAC]/02. Siberian Missiles.flac"
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/Saros.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/Πάνω_Χορός.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/Sybritos.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/El_nuvol_d_Oort.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/AAAAAAA.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/Hortus_Deliciarum.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/Μαύρα_Φρούδια.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Mavra Froudia/Üç_Telli.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Zayandeh.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Helicobtir.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Ημέρες_Σιωπής.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Πεντοζάλης_του_Στέλιου.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Κοντυλιές_του_Εφρέν.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Το_Κατέχον_intro.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Siranush.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Νέκυια.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Το_Κατέχον.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/100_ulls.mp3
+Nov 03 10:34 : update: added Μαύρα Φρούδια/Ταώς/Shin_u_zer.mp3
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0020
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0019
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0018
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0017
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0016
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0015
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0014
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0013
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0012
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0011
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0010
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0009
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0008
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0007
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0006
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0005
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0004
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0003
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0002
+Nov 03 10:34 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0001
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0011
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0010
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0009
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0008
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0007
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0006
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0005
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0004
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0003
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0002
+Nov 03 10:34 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0001
+Nov 05 11:51 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 05 11:51 : exception: Failed to open audio output
+Nov 05 17:20 : player: played "Μαύρα Φρούδια/Ταώς/Κοντυλιές_του_Εφρέν.mp3"
+Nov 05 20:23 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 05 20:23 : exception: Failed to open audio output
+Nov 05 20:24 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 05 20:24 : exception: Failed to open audio output
+Nov 05 20:27 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 05 20:27 : exception: Failed to open audio output
+Dec 03 00:38 : player: played "Μαύρα Φρούδια/Ταώς/Κοντυλιές_του_Εφρέν.mp3"
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0011
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0010
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0009
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0008
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0007
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0006
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0005
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0004
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0003
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0002
+Dec 03 00:38 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/Son Of Psiloritis.cue/track0001
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0020
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0019
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0018
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0017
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0016
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0015
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0014
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0013
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0012
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0011
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0010
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0009
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0008
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0007
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0006
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0005
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0004
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0003
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0002
+Dec 03 00:38 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/Νογώ.cue/track0001
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 08 20:49 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 12 08:05 : player: played "2004 Population Override/01 - Unrestrained Growth.mp3"
+Jan 09 12:18 : player: played "2004 Population Override/01 - Unrestrained Growth.mp3"
+Jan 09 12:26 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/101 - Songs- Ohia - Farewell Transmission.flac"
+Jan 19 21:42 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/102 - Songs- Ohia - I've Been Riding With The Ghost.flac"
+Jan 22 12:05 : player: played "[2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/102 - Songs- Ohia - I've Been Riding With The Ghost.flac"
+Jan 22 12:13 : player: played "Legowelt/The Lost Border (2008) [FLAC]/01. Monday Morning Fog Over Bonn Airport 1985.flac"
+Jan 30 23:55 : player: played "Legowelt/The Lost Border (2008) [FLAC]/02. Manhunter.flac"
+Feb 06 23:11 : player: played "Legowelt/The Lost Border (2008) [FLAC]/02. Manhunter.flac"
+Feb 06 23:22 : player: played "2002 Electric Tears/02 - Sketches Of Spain (For Miles).mp3"
+Feb 06 23:28 : player: played "2002 Electric Tears/04 - Mustang.mp3"
+Feb 06 23:34 : player: played "2002 Electric Tears/05 - The Way To Heaven.mp3"
+Feb 06 23:40 : player: played "2002 Electric Tears/06 - Baptism Of Solitude.mp3"
+Feb 06 23:46 : player: played "2002 Electric Tears/07 - Kansas Storm.mp3"
+Feb 14 17:35 : player: played "2012 Electric Sea/02 - Beyond the Knowing.mp3"
