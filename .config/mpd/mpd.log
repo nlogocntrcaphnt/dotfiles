@@ -1804,3 +1804,1280 @@ Feb 06 23:34 : player: played "2002 Electric Tears/05 - The Way To Heaven.mp3"
 Feb 06 23:40 : player: played "2002 Electric Tears/06 - Baptism Of Solitude.mp3"
 Feb 06 23:46 : player: played "2002 Electric Tears/07 - Kansas Storm.mp3"
 Feb 14 17:35 : player: played "2012 Electric Sea/02 - Beyond the Knowing.mp3"
+Mar 07 12:51 : exception: Failed to decode /home/polyphemus/Music/Artists/2012 Electric Sea/02 - Beyond the Knowing.mp3; Failed to open '/home/polyphemus/Music/Artists/2012 Electric Sea/02 - Beyond the Knowing.mp3': No such file or directory
+Mar 07 12:51 : player: played "2012 Electric Sea/02 - Beyond the Knowing.mp3"
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/109 - Songs- Ohia - The Big Game Is Every Night.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/108 - Songs- Ohia - Hold On Magnolia.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/107 - Songs- Ohia - John Henry Split My Heart.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/106 - Songs- Ohia - Peoria Lunch Box Blues.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/105 - Songs- Ohia - The Old Black Hen.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/104 - Songs- Ohia - Almost Was Good Enough.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/103 - Songs- Ohia - Just Be Simple.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/102 - Songs- Ohia - I've Been Riding With The Ghost.flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/101 - Songs- Ohia - Farewell Transmission.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/07. Thursday Telephasis.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/06. Spektr-001.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/05. Hotel Tap.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/04. The Loneliness Of Irena S_.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/03. Small Town Television Mast.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/02. Manhunter.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/01. Monday Morning Fog Over Bonn Airport 1985.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/15. The Europa Judgement.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/14. Red Skies.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/13. Marburg.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/12. Alpenland Detective.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/11. Falckenhaus Cosmic Dance.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/10. Gardens Of Schloss Ambrass.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/09. Tension.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/08. Austrian Border.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/07. Trams Of Prague.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/06. The Clouds Fall Low.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/05. Suspicions.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/04. Typhoon Papers.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/03. Ultra Sylvam.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/02. Rainy Roads Through Gypsy Forest.flac
+Mar 07 12:51 : update: removing Legowelt/The Europa Judgement (2008) [FLAC]/01. Transylvania Airlines.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/09. Baltic Drone.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/08. Arp And Moog Improvisation.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/07. MIT Research Theme.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/06. Atomic Sites.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/05. No Morality.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/04. Tantra Mountains.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/03. Roadblocks.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/02. Lakes On Side Roads.flac
+Mar 07 12:51 : update: removing Legowelt/Secret Microcassettes (2011) [FLAC]/01. Beyond The Widerness.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/14 - Falckenhaus Arpeggiator.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/13 - Debriefing at Bonn Hq.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/12 - Forest Patrol.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/11 - Baltic Borderzone.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/10 - A Vast Land.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/09 - Meeting in Gorki Park.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/08 - A Tupolev Disappears in the Darkness.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/07 - Operation November.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/06 - Secret Photographs.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/05 - Escape From Kgb Agents in the Old Town.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/04 - Surveillance in the Hotel Lobby.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/03 - Siberian Missiles.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/02 - Clouds Over Riga.flac
+Mar 07 12:51 : update: removing Legowelt/FLAC/01 - My Cold War.flac
+Mar 07 12:51 : update: removing 2012 Electric Sea/11 - The Homing Beacon.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/10 - Gateless Gate.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/09 - Yokohama.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/08 - Bachethead.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/07 - La Gavotte.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/06 - La Wally.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/05 - El Indio.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/04 - Point Doom.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/03 - Swomee Swan.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/02 - Beyond the Knowing.mp3
+Mar 07 12:51 : update: removing 2012 Electric Sea/01 - Electric Sea.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/10 - ....mp3
+Mar 07 12:51 : update: removing 2004 Population Override/09 - Super Human.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/08 - Clones.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/07 - Earth Heals Herself.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/06 - A Day Will Come.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/05 - Cruel Reality Of Nature.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/04 - Humans Vanish.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/03 - Population Override.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/02 - Too Many Humans.mp3
+Mar 07 12:51 : update: removing 2004 Population Override/01 - Unrestrained Growth.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/13 - Spell Of The Gypsies.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/12 - Electric Tears.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/11 - Angel Monster.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/10 - Witches On The Heath.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/09 - Mantaray.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/08 - Datura.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/07 - Kansas Storm.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/06 - Baptism Of Solitude.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/05 - The Way To Heaven.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/04 - Mustang.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/03 - Padmasana.mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/02 - Sketches Of Spain (For Miles).mp3
+Mar 07 12:51 : update: removing 2002 Electric Tears/01 - All In The Waiting.mp3
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/209 - Songs- Ohia - Whip-Poor-Will (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/208 - Songs- Ohia - The Big Game Is Every Night (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/207 - Songs- Ohia - Hold On Magnolia (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/206 - Songs- Ohia - John Henry Split My Heart (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/205 - Songs- Ohia - Peoria Lunch Box Blues (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/204 - Songs- Ohia - The Old Black Hen (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/203 - Songs- Ohia - Just Be Simple (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/202 - Songs- Ohia - I've Been Riding With The Ghost (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/201 - Songs- Ohia - Farewell Transmission (Demo).flac
+Mar 07 12:51 : update: removing [2013] The Magnolia Electric Co (10th Anniversary Deluxe Edition)/110 - Songs- Ohia - Whip-Poor-Will.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/11 - Psarantonis & Ensemble - Erotokritos.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/10 - Psarantonis & Ensemble - Is Ta Chania Ein' Ena Nero.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/09 - Psarantonis & Ensemble - Oso Varoun Ta Sidera.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/08 - Psarantonis & Ensemble - Mana Poly Malonis Me.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/07 - Psarantonis & Ensemble - Syrtos.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/06 - Psarantonis & Ensemble - Mia Perdika.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/05 - Psarantonis & Ensemble - Ena Pouli Icha Sto Klouvi.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/04 - Psarantonis & Ensemble - Mikro Kopelidaki Mou.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/03 - Psarantonis & Ensemble - Agrimia Ki Agrimakia Mou.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/02 - Psarantonis & Ensemble - Ta Koulourakia.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis & Ensemble - 1991 - Son Of Psiloritis - FLAC/01 - Psarantonis & Ensemble - Petres Peto Tou Fengariou.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[12] Τo be that tree.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[11] Nobody cares for me.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[10] Like a teardrop.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[09] I confessed I love you.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[08] The martyr's cross.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[07] Three cretan monks.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[06] Displaced thoughts.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[05] Lucky are the birds (feat. Niki Xylouri).mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[04] Edge of the sky (feat. Niki Xylouri).mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[03] When I yearn for you.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[02] Pedestal of patience.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Psarantonis -  Had The Sea Mountains/[01] Ηad The sea mountains.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/17. Η Τίγρη.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/16 Esi `se San Ti Rodaria.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/15 Andras Pou Den Ekatehe.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/14 Andras Pou Den Ekatehe.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/13 Askopandoura (Sigano) (Instrumental).mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/12 Em` Onde Pas Stin Ekklisia.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/11 Efiges Ena Vradi.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/10 Messaritikes Kontylies (Instrumental).mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/09 To Meraklidiko Pouli.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/08 Koundouro Koundouro Skini.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/07 Omorfo Nio Ezigone.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/06 O Dias (Ymnos Ston Filoriti).mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/05 Tha Anevo Ston Ourano.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/04 Kani Pos Vlepi Aristera.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/03 Kardia In` Ekeni Ke Poni.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/02 Sta Keramia.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/Ideon Andron/01 Farangi.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/20 - Ψαραντώνης - Χαντίπερας.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/19 - Ψαραντώνης - Θέρος.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/18 - Ψαραντώνης - Έχουνόλοι τους πεθάνει.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/17 - Ψαραντώνης - Καταιίιδα.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/16 - Ψαραντώνης - Όμορφος που 'ναι ο κήπος.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/15 - Ψαραντώνης - Κοίτα τα βουνά.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/14 - Ψαραντώνης - Η μνήμη που πληγώνει.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/13 - Ψαραντώνης - Χορός Κουρητών.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/12 - Ψαραντώνης - Πηδηχτός.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/11 - Ψαραντώνης - Γυρισμός.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/10 - Ψαραντώνης - Χανιώτικα Συρτά.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/09 - Ψαραντώνης - Ταξίδι.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/08 - Ψαραντώνης - Σόλο Λυρα.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/07 - Ψαραντώνης - Καστρινός.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/06 - Ψαραντώνης - Σπαθιές.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/05 - Ψαραντώνης - Λυράκια.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/04. Παλμός.mp3
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/04 - Ψαραντώνης - Παλμός.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/03 - Ψαραντώνης - Πεντοζάλια.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/02 - Ψαραντώνης - Αιθέρας.flac
+Mar 07 12:51 : update: removing Ψαραντώνης/1998 - Ψαραντώνης - Νογώ[flac]/01 - Ψαραντώνης - Ύμνος Ψηλορείτη.flac
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Νέκυια.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Zayandeh.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/100_ulls.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Πεντοζάλης_του_Στέλιου.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Κοντυλιές_του_Εφρέν.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Siranush.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Το_Κατέχον.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Το_Κατέχον_intro.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Ημέρες_Σιωπής.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Shin_u_zer.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Ταώς/Helicobtir.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/Πάνω_Χορός.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/Saros.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/El_nuvol_d_Oort.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/AAAAAAA.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/Sybritos.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/Hortus_Deliciarum.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/Üç_Telli.mp3
+Mar 07 12:51 : update: removing Μαύρα Φρούδια/Mavra Froudia/Μαύρα_Φρούδια.mp3
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/10. The Tragic Sadness Of F. Falckenhaus.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/09. Manhunter.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/08. The Europa Judgement.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/07. Alpenland Detective.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/06. Falckenhaus Cosmic Dance.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/05. MIT Research Theme.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/04. Transylvania Airlines.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/03. Rainy Roads Through Gypsy Forest.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/02. Siberian Missiles.flac
+Mar 07 12:51 : update: removing Legowelt/Tupolev System (2018) [FLAC]/01. My Cold War.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/11. Wuppertal Schwebebahn.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/10. The Lost Border.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/09. Tragic Sadness Of F.Falckenhaus.flac
+Mar 07 12:51 : update: removing Legowelt/The Lost Border (2008) [FLAC]/08. Rundfunk.flac
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Drink Away The Pain (Situations) (feat. Q-Tip).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - (Just Step Prelude) (feat. Big Noyd).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Shook Ones Pt. II.m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Right Back At You (feat. Ghostface, Raekwon & Big Noyd).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Party Over (feat. Big Noyd).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - [The Infamous Prelude].m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Give Up the Goods (Just Step) (feat. Big Noyd).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - The Start Of Your Ending (41st Side).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Temperature's Rising (feat. Crystal Johnson).m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Q.U. - Hectic.m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Up North Trip.m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Trife Life.m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - [The Grave Prelude].m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : update: added Mobb Deep/1995 - The Infamous/Mobb Deep - Cradle To The Grave.m4a
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 12:55 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 07 13:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:00 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a"
+Mar 07 13:01 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:01 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - (Just Step Prelude) (feat. Big Noyd).m4a"
+Mar 07 13:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:05 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Give Up the Goods (Just Step) (feat. Big Noyd).m4a"
+Mar 07 13:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:10 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Temperature's Rising (feat. Crystal Johnson).m4a"
+Mar 07 13:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:15 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Up North Trip.m4a"
+Mar 07 13:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:20 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Trife Life.m4a"
+Mar 07 13:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:25 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Q.U. - Hectic.m4a"
+Mar 07 13:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:30 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Right Back At You (feat. Ghostface, Raekwon & Big Noyd).m4a"
+Mar 07 13:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:31 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - [The Grave Prelude].m4a"
+Mar 07 13:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:36 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Cradle To The Grave.m4a"
+Mar 07 13:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:41 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Drink Away The Pain (Situations) (feat. Q-Tip).m4a"
+Mar 07 13:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:50 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 07 13:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:54 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a"
+Mar 07 13:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 13:56 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - (Just Step Prelude) (feat. Big Noyd).m4a"
+Mar 07 13:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 14:00 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Give Up the Goods (Just Step) (feat. Big Noyd).m4a"
+Mar 07 14:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 14:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 14:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 18:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 18:36 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Cradle To The Grave.m4a"
+Mar 07 18:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 18:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 18:43 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 07 18:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 18:47 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a"
+Mar 07 22:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 07 22:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-13 - B.I.B.L.E. (Basic Instructions Before Leaving Earth) (performed by Killah Priest).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-08 - Shadowboxin' (feat. Method Man).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-09 - Hell's Wind Staff Killah Hills 10304 (feat. RZA, Ol Dirty Bastard & Dreddy Kruger).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-03 - Living In The World Today (feat. Method Man & RZA).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-06 - Labels (feat. RZA).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-07 - 4th Chamber (feat. Tony Starks a.k.a. Ghostface Killah, Killah Priest & RZA).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-04 - Gold (feat. Method Man).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-05 - Cold World (feat. Life & Inspectah Deck).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-10 - Investigative Reports (feat. Ghostface Killah, Raekwon & U-God).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-12 - I Gotcha Back (feat. RZA).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-11 - Swordsman.flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-02 - Duel Of The Iron Mic (feat. Inspectah Deck, Masta Killa & Ol' Dirty Bastard).flac
+Mar 08 16:01 : update: added Genius GZA/Liquid Swords/1-01 - Liquid Swords (feat. RZA).flac
+Mar 08 16:05 : player: played "Genius GZA/Liquid Swords/1-01 - Liquid Swords (feat. RZA).flac"
+Mar 08 16:09 : player: played "Genius GZA/Liquid Swords/1-02 - Duel Of The Iron Mic (feat. Inspectah Deck, Masta Killa & Ol' Dirty Bastard).flac"
+Mar 10 13:45 : player: played "Genius GZA/Liquid Swords/1-03 - Living In The World Today (feat. Method Man & RZA).flac"
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/09. Biosphere - Uva-Ursi.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/04. Biosphere - The Things I Tell You.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/03. Biosphere - Chukhung.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/08. Biosphere - Antennaria.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/05. Biosphere - Times When I Know You'll Be Sad.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/12. Biosphere - Laika.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/11. Biosphere - Silene.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/01. Biosphere - As The Sun Kissed The Horizon.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/02. Biosphere - Poa Alpina.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/10. Biosphere - Sphere Of No-Form.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/07. Biosphere - Kobresia.flac
+Mar 10 13:45 : update: added Biosphere/1997-10-21 - Substrata/06. Biosphere - Hyperborea.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/02-biosphere--chukhung_(alternative_version)-037a0e4e.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/04-biosphere--times_when_i_know_youll_be_sad_(alternative_version)-42dfb2e4.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/05-biosphere--hyperborea_(alternative_version)-575e64c7.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/06-biosphere--kobresia_(alternative_version)-c48726ac.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/07-biosphere--antennaria_(alternative_version)-adf58124.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/09-biosphere--sphere_of_no-form_(alternative_version)-f2953137.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/03-biosphere--the_things_i_tell_you_(alternative_version)-10f42e29.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/08-biosphere--uva-ursi_(alternative_version)-d2b173b1.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/10-biosphere--silene_(alternative_version)-bafde06d.flac
+Mar 10 13:45 : update: added Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/01-biosphere--poa_alpina_(allternative_version)-be4bc0f8.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [03] - Man of 300 Voices.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [02] - Gods of War - At War.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [05] - From Son to Father.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [08] - Alexandros - Ode B.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [07] - Alexandros - Ode A.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [06] - Rhodian Pride, Lindian Might.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [01] - I See, the Sea!.flac
+Mar 11 20:52 : update: added Macabre Omen/[2015] Macabre Omen - Gods of War/Macabre Omen - [04] - Heroes Fight Like Hellenes.flac
+Mar 11 21:09 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/02-biosphere--chukhung_(alternative_version)-037a0e4e.flac"
+Mar 12 18:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:30 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 12 18:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:34 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 12 18:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:37 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 12 18:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:41 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 12 18:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:45 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 12 18:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 12 18:49 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 16 07:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 16 07:35 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 16 07:38 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 16 07:39 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 16 07:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 16 07:42 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 18 18:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 18 18:27 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 18 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 18 18:31 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a"
+Mar 18 18:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 18 18:33 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - (Just Step Prelude) (feat. Big Noyd).m4a"
+Mar 18 18:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 18 18:37 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Give Up the Goods (Just Step) (feat. Big Noyd).m4a"
+Mar 22 14:20 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Temperature's Rising (feat. Crystal Johnson).m4a"
+Mar 27 14:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:06 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Mar 27 14:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:10 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a"
+Mar 27 14:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:12 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - (Just Step Prelude) (feat. Big Noyd).m4a"
+Mar 27 14:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:16 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Give Up the Goods (Just Step) (feat. Big Noyd).m4a"
+Mar 27 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:21 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Temperature's Rising (feat. Crystal Johnson).m4a"
+Mar 27 14:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:26 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Up North Trip.m4a"
+Mar 27 14:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:31 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Trife Life.m4a"
+Mar 27 14:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:36 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Q.U. - Hectic.m4a"
+Mar 27 14:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:41 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Right Back At You (feat. Ghostface, Raekwon & Big Noyd).m4a"
+Mar 27 14:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:41 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - [The Grave Prelude].m4a"
+Mar 27 14:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:46 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Cradle To The Grave.m4a"
+Mar 27 14:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:51 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Drink Away The Pain (Situations) (feat. Q-Tip).m4a"
+Mar 27 14:56 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 27 14:57 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Shook Ones Pt. II.m4a"
+Mar 30 06:50 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Party Over (feat. Big Noyd).m4a"
+Mar 31 08:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 08:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 08:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 08:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 08:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 08:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 08:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 08:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 06 17:38 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/01-biosphere--poa_alpina_(allternative_version)-be4bc0f8.flac"
+Apr 06 19:00 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/02-biosphere--chukhung_(alternative_version)-037a0e4e.flac"
+Apr 06 19:12 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/03-biosphere--the_things_i_tell_you_(alternative_version)-10f42e29.flac"
+Apr 08 20:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:09 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Apr 08 20:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:14 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a"
+Apr 08 20:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:15 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - (Just Step Prelude) (feat. Big Noyd).m4a"
+Apr 08 20:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:19 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Give Up the Goods (Just Step) (feat. Big Noyd).m4a"
+Apr 08 20:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:24 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Temperature's Rising (feat. Crystal Johnson).m4a"
+Apr 08 20:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:29 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Up North Trip.m4a"
+Apr 08 20:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 20:34 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Trife Life.m4a"
+Apr 08 23:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 08 23:33 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Q.U. - Hectic.m4a"
+Apr 11 20:04 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/05-biosphere--hyperborea_(alternative_version)-575e64c7.flac"
+Apr 11 20:08 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/06-biosphere--kobresia_(alternative_version)-c48726ac.flac"
+Apr 11 20:11 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/07-biosphere--antennaria_(alternative_version)-adf58124.flac"
+Apr 11 20:13 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/08-biosphere--uva-ursi_(alternative_version)-d2b173b1.flac"
+Apr 11 20:22 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/09-biosphere--sphere_of_no-form_(alternative_version)-f2953137.flac"
+Apr 13 08:18 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/10-biosphere--silene_(alternative_version)-bafde06d.flac"
+Apr 18 20:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 20:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 20:46 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Survival Of The Fittest.m4a"
+Apr 18 20:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 20:50 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Eye For A Eye (Your Beef Is Mines) (feat. Nas & Raekwon).m4a"
+Apr 18 20:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 20:52 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - (Just Step Prelude) (feat. Big Noyd).m4a"
+Apr 18 20:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 20:56 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Give Up the Goods (Just Step) (feat. Big Noyd).m4a"
+Apr 18 21:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:01 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Temperature's Rising (feat. Crystal Johnson).m4a"
+Apr 18 21:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:06 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Up North Trip.m4a"
+Apr 18 21:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:11 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Trife Life.m4a"
+Apr 18 21:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:16 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Q.U. - Hectic.m4a"
+Apr 18 21:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:21 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Right Back At You (feat. Ghostface, Raekwon & Big Noyd).m4a"
+Apr 18 21:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:21 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - [The Grave Prelude].m4a"
+Apr 18 21:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:26 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Cradle To The Grave.m4a"
+Apr 18 21:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:31 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Drink Away The Pain (Situations) (feat. Q-Tip).m4a"
+Apr 18 21:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 21:37 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Shook Ones Pt. II.m4a"
+Apr 18 21:42 : player: played "Mobb Deep/1995 - The Infamous/Mobb Deep - Party Over (feat. Big Noyd).m4a"
+Apr 18 21:47 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/01-biosphere--poa_alpina_(allternative_version)-be4bc0f8.flac"
+Apr 18 21:56 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/02-biosphere--chukhung_(alternative_version)-037a0e4e.flac"
+Apr 19 00:29 : player: played "Biosphere/Biosphere--Substrata_(Alternative_Versions)-(BIO37)-24-44-WEB-FLAC-2022-BABAS/03-biosphere--the_things_i_tell_you_(alternative_version)-10f42e29.flac"
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/06 Brilliance.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/04 What You Call a Life.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/08 Damaged III.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/07 Dead (too).flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/02 Nostep.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/05 Water.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/03 Expressure.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/11 My Confession.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/09 Release.flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/10 High Life (theme).flac
+Apr 19 17:33 : update: added Christoph de Babalon/(1997) If You're Into It, I'm Out of It/01 Opium.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/08. Trauerspiel.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/05. Death by Hanging.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/04. Realistic Riot Ritual Routine.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/01. Meet Fate.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/02. Delinquent Dreams.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/03. Blue Hours.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/07. Dark Forces.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/06. I Will Go Through.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/10. Endpoint (Reach Out).flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. I (2014) (flac)/09. Sargzimmern.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/07 - Babylon 90210.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/03 - Alpengluhen.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/01 - I Own Death.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/08 - Marble Stairs.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/04 - Leave Me In The Autumn.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/06 - Are You Talking To Me.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/05 - Dream Sequence.flac
+Apr 19 17:33 : update: added Christoph de Babalon/The haunting past of Christoph de Babalon vol. II (2017) (flac)/02 - Kirchenganger.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/09 Valediction.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/05 Are You Talking To Me-.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/07 Marble Stairs.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/04 Leave Me In The Autumn.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/01 Gaseous Invertebrate.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/03 Realistic Riot Ritual Routine.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/08 Meditate.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/02 Kirchengänger.flac
+Apr 19 17:33 : update: added Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/06 Alpenglühen.flac
+Aug 31 18:42 : player: played "Christoph de Babalon/(1997) If You're Into It, I'm Out of It/11 My Confession.flac"
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/03 - Imeres siopis.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/09 - 100 ulls.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/08 - Stelios’ pentozalis.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/11 - Nekya.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/04 - To Katehon (intro).flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/10 - Zayandeh.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/07 - Efrén’s kontylies.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/01 - Helicobtir.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/05 - To Katehon.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/02 - Şîn û zer.flac
+Aug 31 18:42 : update: added Petrakis/2017-11-10 - Taos/06 - Siranush.flac
+Aug 31 19:17 : player: played "Petrakis/2017-11-10 - Taos/07 - Efrén’s kontylies.flac"
+Sep 02 20:18 : player: played "Petrakis/2017-11-10 - Taos/05 - To Katehon.flac"
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/02 - Ham Star Flowers.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/13 - Space DX21.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/03 - Future Land.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/11 - Bannock Bird Hat.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/05 - Manpulse.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/09 - Swimming Cat Spa.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/14 - Time Mystery.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/12 - Cobo Tape.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/07 - Chicago Snow Flakes.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/08 - Star Trek Over Detroit.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/10 - Lake Distrax.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/04 - Iberian Wolves.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/06 - Crystobal Theory.mp3
+Sep 02 20:18 : update: added Dark Days 2 (CDr)/01 - Twilight Island.mp3
+Sep 02 20:23 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/01 Gaseous Invertebrate.flac"
+Sep 02 20:25 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/01 Gaseous Invertebrate.flac"
+Sep 02 20:26 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/01 Gaseous Invertebrate.flac"
+Sep 02 21:51 : player: played "Dark Days 2 (CDr)/01 - Twilight Island.mp3"
+Sep 04 09:43 : player: played "Dark Days 2 (CDr)/03 - Future Land.mp3"
+Sep 04 09:49 : player: played "Dark Days 2 (CDr)/04 - Iberian Wolves.mp3"
+Sep 05 00:32 : player: played "Dark Days 2 (CDr)/05 - Manpulse.mp3"
+Oct 17 22:28 : player: played "Dark Days 2 (CDr)/05 - Manpulse.mp3"
+Oct 17 22:30 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/04 Leave Me In The Autumn.flac"
+Oct 17 22:36 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/05 Are You Talking To Me-.flac"
+Oct 17 22:42 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/06 Alpenglühen.flac"
+Oct 18 18:34 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/07 Marble Stairs.flac"
+Oct 20 13:26 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/07 Marble Stairs.flac"
+Oct 22 19:43 : player: played "Christoph de Babalon/(1997) If You're Into It, I'm Out of It/11 My Confession.flac"
+Oct 23 23:12 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/01 Gaseous Invertebrate.flac"
+Oct 23 23:16 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/02 Kirchengänger.flac"
+Oct 23 23:19 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/03 Realistic Riot Ritual Routine.flac"
+Oct 23 23:21 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/04 Leave Me In The Autumn.flac"
+Oct 23 23:26 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/05 Are You Talking To Me-.flac"
+Oct 23 23:32 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/06 Alpenglühen.flac"
+Oct 23 23:38 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/07 Marble Stairs.flac"
+Oct 24 00:22 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/08 Meditate.flac"
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/14 - Time Mystery.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/13 - Space DX21.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/12 - Cobo Tape.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/11 - Bannock Bird Hat.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/10 - Lake Distrax.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/09 - Swimming Cat Spa.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/08 - Star Trek Over Detroit.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/07 - Chicago Snow Flakes.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/06 - Crystobal Theory.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/05 - Manpulse.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/04 - Iberian Wolves.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/03 - Future Land.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/02 - Ham Star Flowers.mp3
+Oct 24 00:22 : update: removing Dark Days 2 (CDr)/01 - Twilight Island.mp3
+Oct 24 00:22 : update: added Orbital/Radiccio/02 - Holycon.flac
+Oct 24 00:22 : update: added Orbital/Radiccio/03 - Deeper.flac
+Oct 24 00:22 : update: added Orbital/Radiccio/01 - Halcyon Edit.flac
+Oct 24 00:22 : update: added Orbital/Radiccio/04 - The Naked And The Dead.flac
+Oct 24 00:22 : update: added Orbital/Radiccio/05 - Sunday.flac
+Oct 24 00:22 : update: added Orbital/Radiccio/06 - The Naked And The Dub.flac
+Oct 24 00:27 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 24 03:53 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 24 13:58 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 24 14:34 : player: played "Orbital/Radiccio/03 - Deeper.flac"
+Oct 25 15:00 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 25 19:32 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 26 15:35 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 26 16:05 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/07 - Walk Now....flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/09 - Halcyon + On + On.flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/04 - Lush 3-2.flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/05 - Impact (The Earth Is Burning).flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/01 - Time Becomes.flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/02 - Planet Of The Shapes.flac
+Oct 26 16:41 : update: added Orbital/Orbital - Orbital 2 (Brown Album)/10 - Input Out.flac
+Oct 26 16:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 26 16:48 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/07 - Walk Now....flac"
+Oct 26 17:03 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 26 17:03 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/09 - Halcyon + On + On.flac"
+Oct 26 17:09 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 26 17:09 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 26 17:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 26 17:26 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/04 - Lush 3-2.flac"
+Oct 26 17:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 26 17:36 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/05 - Impact (The Earth Is Burning).flac"
+Oct 26 19:59 : update: added Orbital/Snivilisation/3. Sad but True.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/1. Forever.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/6. Philosophy by Numbers.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/8. Quality Seconds.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/9. Are We Here_.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/4. Crash and Carry.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/5. Science Friction.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/10. Attached.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/7. Kein Trink Wasser.flac
+Oct 26 19:59 : update: added Orbital/Snivilisation/2. I Wish I Had Duck Feet.flac
+Oct 26 20:13 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Oct 26 23:16 : player: played "Orbital/Snivilisation/3. Sad but True.flac"
+Oct 26 23:23 : player: played "Orbital/Snivilisation/3. Sad but True.flac"
+Oct 26 23:31 : player: played "Orbital/Snivilisation/3. Sad but True.flac"
+Oct 26 23:45 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 26 23:46 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 26 23:50 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 26 23:50 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/04 - Lush 3-2.flac"
+Oct 27 00:00 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 27 00:01 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/05 - Impact (The Earth Is Burning).flac"
+Oct 27 00:08 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 27 00:08 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 27 15:41 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/07 - Walk Now....flac"
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/B3 - Speedy J – Symmetry.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/E - Darrell Fitton – Metalurg.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/C2 - Richard H Kirk – Reality Net.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/C1 - Beaumont Hannant – Utuba.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/B2 - Autechre – Chatter.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/D1 - Seefeel – Spangle.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/A3 - Link – Arcadian (Global Communication Remix).flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/B1 - B12 – Scriptures.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/F - Kenny Larkin – Maritime.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/D3 - Polygon Window – My Teapot.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/A2 - The Higher Intelligence Agency – Selinite.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/D2 - Darrell Fitton – Blipsalt.flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/A1 - Mark Franklin – Release to the System (Beaumont Hannant Remix).flac
+Oct 27 15:41 : update: added WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/C3 - Balil – Parasight.flac
+Oct 27 15:49 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Oct 27 15:50 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/A1 - Mark Franklin – Release to the System (Beaumont Hannant Remix).flac"
+Oct 27 16:02 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Oct 27 16:02 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/A3 - Link – Arcadian (Global Communication Remix).flac"
+Oct 27 17:19 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Oct 27 17:19 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/B1 - B12 – Scriptures.flac"
+Oct 27 17:26 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Oct 27 17:26 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/B2 - Autechre – Chatter.flac"
+Oct 27 17:32 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Oct 27 17:32 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/B3 - Speedy J – Symmetry.flac"
+Oct 27 22:27 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Oct 27 22:27 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/C3 - Balil – Parasight.flac"
+Oct 27 22:35 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Oct 27 22:35 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/D1 - Seefeel – Spangle.flac"
+Oct 27 23:23 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/D2 - Darrell Fitton – Blipsalt.flac"
+Oct 27 23:23 : update: added Orbital/Orbital - 1992 - Diversions/05 - Lush 3-4 (Warrior Drift Psychick Warriors Ov Gaia).flac
+Oct 27 23:23 : update: added Orbital/Orbital - 1992 - Diversions/01 - Impact USA (The Earth Is Burning- Diversion).flac
+Oct 27 23:23 : update: added Orbital/Orbital - 1992 - Diversions/04 - Lush 3-5 [CJ Bolland].flac
+Oct 27 23:23 : update: added Orbital/Orbital - 1992 - Diversions/03 - Semi-Detached.flac
+Oct 27 23:23 : update: added Orbital/Orbital - 1992 - Diversions/02 - Lush 3 (Euro Tunnel Disaster'94) -Walk About (John Peel Sessions).flac
+Oct 27 23:23 : update: added Orbital/Orbital - 1992 - Diversions/06 - Lush 3-3 (Underworld) [Underworld Mix].flac
+Oct 27 23:38 : player: played "Orbital/Orbital - 1992 - Diversions/02 - Lush 3 (Euro Tunnel Disaster'94) -Walk About (John Peel Sessions).flac"
+Oct 27 23:47 : player: played "Orbital/Orbital - 1992 - Diversions/03 - Semi-Detached.flac"
+Oct 27 23:53 : player: played "Orbital/Orbital - 1992 - Diversions/04 - Lush 3-5 [CJ Bolland].flac"
+Oct 28 18:39 : player: played "Orbital/Orbital - 1992 - Diversions/03 - Semi-Detached.flac"
+Oct 28 18:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 18:48 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/02 - Planet Of The Shapes.flac"
+Oct 28 18:54 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 18:54 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 28 18:58 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 18:59 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/04 - Lush 3-2.flac"
+Oct 28 19:09 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 19:09 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/05 - Impact (The Earth Is Burning).flac"
+Oct 28 19:17 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 19:17 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 19:24 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 19:25 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 19:32 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 19:33 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 19:40 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 19:41 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 19:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 19:48 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 19:56 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 19:56 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 20:04 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 20:04 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 20:04 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/06 - Remind.flac"
+Oct 28 21:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 21:50 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac"
+Oct 28 22:12 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 28 22:12 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac"
+Oct 28 22:30 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac"
+Oct 29 18:30 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 29 18:30 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac"
+Oct 29 18:37 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 29 18:37 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac"
+Oct 29 18:44 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 29 18:44 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac"
+Oct 30 01:52 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/08 - Monday.flac"
+Oct 30 14:14 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 14:14 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/07 - Walk Now....flac"
+Oct 30 14:21 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 14:21 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/07 - Walk Now....flac"
+Oct 30 14:28 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 14:28 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/07 - Walk Now....flac"
+Oct 30 15:01 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 15:01 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 30 16:20 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 16:20 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 30 16:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 16:25 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 30 16:31 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 16:31 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 30 16:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Oct 30 16:37 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 30 17:23 : update: added The Black Dog/Bytes/09 - Merck.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/01 - Object Orient.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/02 - Caz.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/08 - Fight The Hits.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/11 - 3 4 Heart.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/04 - Focus Mel.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/10 - Jauqq.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/07 - Yamemm.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/05 - Olivine.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/03 - Carceres Ex Novum.flac
+Oct 30 17:23 : update: added The Black Dog/Bytes/06 - Clan (Mongol Hordes).flac
+Oct 30 17:23 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Oct 30 17:29 : player: played "The Black Dog/Bytes/01 - Object Orient.flac"
+Oct 30 20:39 : player: played "The Black Dog/Bytes/05 - Olivine.flac"
+Oct 31 18:07 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/05 Are You Talking To Me-.flac"
+Nov 01 01:35 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/06 Alpenglühen.flac"
+Nov 04 16:23 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/06 Alpenglühen.flac"
+Nov 04 18:08 : player: played "Orbital/Snivilisation/3. Sad but True.flac"
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/03. Gutter Vibrations.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/10. It's Ritual.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/11. Percressing.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/09. Peaked.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/04. I Don't.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/01. Peace.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/06. Remote Heaven.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/08. Don't Know.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/07. You Were Wrong.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/02. Great God Pan.flac
+Nov 04 19:27 : update: added SD Laika/That's Harakiri/05. Meshes.flac
+Nov 04 19:27 : player: played "Orbital/Snivilisation/6. Philosophy by Numbers.flac"
+Nov 04 20:07 : player: played "SD Laika/That's Harakiri/04. I Don't.flac"
+Nov 04 20:09 : player: played "SD Laika/That's Harakiri/05. Meshes.flac"
+Nov 04 22:15 : player: played "SD Laika/That's Harakiri/10. It's Ritual.flac"
+Nov 04 22:38 : player: played "Orbital/Orbital - 1992 - Diversions/05 - Lush 3-4 (Warrior Drift Psychick Warriors Ov Gaia).flac"
+Nov 06 14:27 : player: played "Orbital/Orbital - 1992 - Diversions/02 - Lush 3 (Euro Tunnel Disaster'94) -Walk About (John Peel Sessions).flac"
+Nov 06 14:30 : player: played "SD Laika/That's Harakiri/04. I Don't.flac"
+Nov 06 14:33 : player: played "SD Laika/That's Harakiri/05. Meshes.flac"
+Nov 07 12:57 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Nov 07 12:57 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/A3 - Link – Arcadian (Global Communication Remix).flac"
+Nov 07 19:53 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Nov 07 19:53 : player: played "WARP Records/Various Artists - Artificial Intelligence II - Limited Edition Vinyl - (1994) - {WARP LP 23 LTD} - [Flac 24 bit]/A3 - Link – Arcadian (Global Communication Remix).flac"
+Nov 07 20:02 : player: played "SD Laika/That's Harakiri/04. I Don't.flac"
+Nov 07 20:04 : player: played "SD Laika/That's Harakiri/05. Meshes.flac"
+Nov 07 20:07 : player: played "SD Laika/That's Harakiri/06. Remote Heaven.flac"
+Nov 07 20:13 : player: played "SD Laika/That's Harakiri/08. Don't Know.flac"
+Nov 07 20:14 : player: played "SD Laika/That's Harakiri/09. Peaked.flac"
+Nov 07 20:19 : player: played "SD Laika/That's Harakiri/02. Great God Pan.flac"
+Nov 07 20:19 : player: played "SD Laika/That's Harakiri/03. Gutter Vibrations.flac"
+Nov 09 20:58 : update: added SD Laika/Lost Files/04 Dreadful John.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/07 Reckless.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/05 Kicker - Hold Tight.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/06 Gated Synth Draft - Glimmer.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/03 Mostly Trash.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/08 Untitled.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/02 Sanpaku Island.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/09 Test Patterns - White Lodge.mp3
+Nov 09 20:58 : update: added SD Laika/Lost Files/01 Sketches - 36.mp3
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/10 IN THE LIGHT OF GREY.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/05 JUPILER.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/02 COST II.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/07 SHARP SHOOTING ON SATURN.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/06 KINGS OF SPARTA.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/11 THE CRETE THAT CRETE MADE.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/01 COST I.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/04 THE ACTOR AND AUDIENCE.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/09 CYCLE.FLAC
+Nov 09 20:58 : update: added The Black Dog/TEMPLE OF TRANSPARENT BALLS/08 MANGO.FLAC
+Nov 09 21:11 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 10 18:50 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 10 18:56 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 10 19:23 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/02 COST II.FLAC"
+Nov 11 03:47 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 11 03:53 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 11 05:02 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/07 - Primitive Ways.flac
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/04 - Left to Die.flac
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/02 - Born Dead.flac
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/03 - Forgotten Past.flac
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/08 - Choke on It.flac
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/05 - Pull the Plug.flac
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/06 - Open Casket.flac
+Nov 11 05:02 : update: added Death/Death - (1988) - Leprosy [FLAC-16_44]/01 - Leprosy.flac
+Nov 11 14:36 : player: played "Death/Death - (1988) - Leprosy [FLAC-16_44]/05 - Pull the Plug.flac"
+Nov 11 18:24 : player: played "The Black Dog/Bytes/01 - Object Orient.flac"
+Nov 11 18:30 : player: played "The Black Dog/Bytes/01 - Object Orient.flac"
+Nov 11 18:36 : player: played "The Black Dog/Bytes/01 - Object Orient.flac"
+Nov 11 18:43 : player: played "The Black Dog/Bytes/06 - Clan (Mongol Hordes).flac"
+Nov 12 00:05 : player: played "The Black Dog/Bytes/03 - Carceres Ex Novum.flac"
+Nov 12 20:38 : player: played "The Black Dog/Bytes/06 - Clan (Mongol Hordes).flac"
+Nov 13 00:00 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 13 00:06 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/04 THE ACTOR AND AUDIENCE.FLAC"
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/02 777.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/01 Acroyear2.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/12 Untitled.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/09 Caliper Remote.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/08 Corc.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/07 Under Boac.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/04 Melve.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/05 Vose In.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/10 Arch Carrier.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/06 Fold4, Wrap5.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/11 Drane2.wav
+Nov 14 01:42 : update: added Autechre/[1998-07-13] LP5/03 Rae.wav
+Nov 14 01:42 : update: added Autechre/Tri Repetae/05 Stud.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/09 Overand.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/03 Leterel.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/01 Dael.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/07 C_Pach.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/06 Eutow.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/10 Rsdio.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/02 Clipper.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/08 Gnit.flac
+Nov 14 01:42 : update: added Autechre/Tri Repetae/04 Rotar.flac
+Nov 14 01:42 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/05 JUPILER.FLAC"
+Nov 14 13:04 : player: played "Autechre/Tri Repetae/02 Clipper.flac"
+Nov 14 13:53 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 14 14:01 : player: played "Orbital/Snivilisation/3. Sad but True.flac"
+Nov 15 15:14 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 15 15:15 : player: played "Orbital/Orbital - Orbital 2 (Brown Album)/03 - Lush 3-1.flac"
+Nov 15 15:27 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Nov 15 16:59 : player: played "Orbital/Radiccio/05 - Sunday.flac"
+Nov 17 17:21 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 17 19:13 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/09. Bolt4.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/02. Bolt1.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/11. Nommo.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/05. Psil-Cosyin.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/04. Bolt2.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/17. Bolt7.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/07. Bolt3.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/14. Bolt6.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/06. Chase The Manhattan.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/03. Barbola Work.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/19. Chesh.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/08. Tahr.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/15. End Of Time.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/12. Bolt5.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/18. Frisbee Skip.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/13. Pot Noddle.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/01. Raxmus.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/10. Further Harm.flac
+Nov 17 19:13 : update: added The Black Dog/The Black Dog - Spanners [Remastered]/16. Utopian Dream.flac
+Nov 17 19:16 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/01. Raxmus.flac"
+Nov 17 19:52 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/01. Raxmus.flac"
+Nov 17 19:55 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/01. Raxmus.flac"
+Nov 17 20:28 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/03. Barbola Work.flac"
+Nov 17 20:28 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/04. Bolt2.flac"
+Nov 18 07:50 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/05. Psil-Cosyin.flac"
+Nov 18 11:16 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/10. Further Harm.flac"
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 08 4 Minute Warning.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 05 Last Flowers.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 01 Mk 1.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 07 Bangers + Mash.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 06 Up On The Ladder.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 02 Down Is The New Up.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 03 Go Slowly.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows Disk 2 - 04 Mk 2.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 01 15 Step.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 03 Nude.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 05 All I Need.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 02 Bodysnatchers.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 09 Jigsaw Falling Into Place.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 04 Weird Fishes  Arpeggi.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 10 Videotape.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 08 House Of Cards.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 07 Reckoner.flac
+Nov 18 11:16 : update: added Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 06 Faust Arp.flac
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Nov 18 11:16 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Nov 18 14:41 : player: played "Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/Radiohead - In Rainbows - 05 All I Need.flac"
+Nov 19 08:11 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/03. Barbola Work.flac"
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/08 - Idioteque.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/04 - How To Disappear Completely.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/09 - Morning Bell.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/10 - Motion Picture Soundtrack.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/06 - Optimistic.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/02 - Kid A.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/05 - Treefingers.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/07 - In Limbo.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/03 - The National Anthem.flac
+Nov 19 08:11 : update: added Radiohead/[2000] Radiohead - Kid A [FLAC]/01 - Everything In Its Right Place.flac
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Nov 19 08:11 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Nov 19 08:30 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/01 - Everything In Its Right Place.flac"
+Nov 19 08:37 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/08 - Idioteque.flac"
+Nov 19 08:41 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/09 - Morning Bell.flac"
+Nov 19 10:17 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/01 - Everything In Its Right Place.flac"
+Nov 19 10:22 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/02 - Kid A.flac"
+Nov 19 10:52 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/04 - How To Disappear Completely.flac"
+Nov 19 10:56 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/05 - Treefingers.flac"
+Nov 19 13:33 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/01 - Everything In Its Right Place.flac"
+Nov 19 13:38 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/06 - Optimistic.flac"
+Nov 19 13:42 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/07 - In Limbo.flac"
+Nov 19 13:47 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/08 - Idioteque.flac"
+Nov 19 13:51 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/09 - Morning Bell.flac"
+Nov 19 13:59 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/01 - Everything In Its Right Place.flac"
+Nov 19 14:04 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/02 - Kid A.flac"
+Nov 19 15:18 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/02 - Kid A.flac"
+Nov 19 15:24 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/04 - How To Disappear Completely.flac"
+Nov 19 15:29 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/06 - Optimistic.flac"
+Nov 19 15:33 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/07 - In Limbo.flac"
+Nov 19 15:38 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/08 - Idioteque.flac"
+Nov 19 15:42 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/09 - Morning Bell.flac"
+Nov 19 15:52 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/06 - Optimistic.flac"
+Nov 19 16:35 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/07 - In Limbo.flac"
+Nov 19 16:48 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/05 Are You Talking To Me-.flac"
+Nov 19 16:53 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/06 Alpenglühen.flac"
+Nov 19 16:59 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/07 Marble Stairs.flac"
+Nov 19 17:14 : player: played "Christoph de Babalon/(1997) If You're Into It, I'm Out of It/11 My Confession.flac"
+Nov 19 17:15 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/01 Gaseous Invertebrate.flac"
+Nov 20 10:16 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/05 Are You Talking To Me-.flac"
+Nov 20 10:17 : player: played "Christoph de Babalon/2018 - Christoph de Babalon - Exquisite Angst (A Colourful Storm)/05 Are You Talking To Me-.flac"
+Nov 21 12:40 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/01 - Everything In Its Right Place.flac"
+Nov 22 19:34 : player: played "Radiohead/[2000] Radiohead - Kid A [FLAC]/01 - Everything In Its Right Place.flac"
+Nov 28 12:27 : player: played "Christoph de Babalon/(1997) If You're Into It, I'm Out of It/06 Brilliance.flac"
+Nov 29 17:04 : player: played "Christoph de Babalon/(1997) If You're Into It, I'm Out of It/06 Brilliance.flac"
+Nov 29 17:42 : update: added Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/05. Strange Girl.flac
+Nov 29 17:42 : update: added Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/03. Ricky Ramjet.flac
+Nov 29 17:42 : update: added Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/02. Geneva Hideout.flac
+Nov 29 17:42 : update: added Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/04. Nuisance Lover.flac
+Nov 29 17:42 : update: added Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/01. Sturmvogel.flac
+Nov 29 17:42 : update: added Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/06. Total Pussy Control.flac
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Nov 29 17:42 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Nov 29 17:47 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/02. Geneva Hideout.flac"
+Dec 04 21:49 : player: played "The Black Dog/Bytes/03 - Carceres Ex Novum.flac"
+Dec 04 22:01 : player: played "The Black Dog/Bytes/04 - Focus Mel.flac"
+Dec 04 22:06 : player: played "The Black Dog/Bytes/05 - Olivine.flac"
+Dec 04 22:12 : player: played "The Black Dog/Bytes/06 - Clan (Mongol Hordes).flac"
+Dec 06 19:30 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/01. Sturmvogel.flac"
+Dec 06 19:34 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/02. Geneva Hideout.flac"
+Dec 06 19:40 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/03. Ricky Ramjet.flac"
+Dec 06 21:00 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/01. Raxmus.flac"
+Dec 08 11:21 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/01. Raxmus.flac"
+Dec 08 11:22 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/02. Bolt1.flac"
+Dec 08 11:28 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/03. Barbola Work.flac"
+Dec 08 11:29 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/04. Bolt2.flac"
+Dec 08 11:39 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/05. Psil-Cosyin.flac"
+Dec 08 11:45 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/06. Chase The Manhattan.flac"
+Dec 08 11:46 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/07. Bolt3.flac"
+Dec 08 11:49 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/08. Tahr.flac"
+Dec 08 11:50 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/09. Bolt4.flac"
+Dec 08 11:57 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/10. Further Harm.flac"
+Dec 08 12:03 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/11. Nommo.flac"
+Dec 08 12:04 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/12. Bolt5.flac"
+Dec 08 12:11 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/13. Pot Noddle.flac"
+Dec 08 12:11 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/14. Bolt6.flac"
+Dec 08 12:15 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/15. End Of Time.flac"
+Dec 08 12:21 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/16. Utopian Dream.flac"
+Dec 08 12:21 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/17. Bolt7.flac"
+Dec 08 12:27 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/18. Frisbee Skip.flac"
+Dec 08 12:33 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/19. Chesh.flac"
+Dec 08 12:38 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/01. Sturmvogel.flac"
+Dec 08 12:43 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/02. Geneva Hideout.flac"
+Dec 08 12:48 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/03. Ricky Ramjet.flac"
+Dec 08 12:54 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/04. Nuisance Lover.flac"
+Dec 11 18:53 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/01. Sturmvogel.flac"
+Dec 11 18:58 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/02. Geneva Hideout.flac"
+Dec 11 19:03 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/03. Ricky Ramjet.flac"
+Dec 11 19:09 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/04. Nuisance Lover.flac"
+Dec 11 19:14 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/05. Strange Girl.flac"
+Dec 11 21:06 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/06. Total Pussy Control.flac"
+Dec 12 15:46 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/01. Sturmvogel.flac"
+Dec 12 15:51 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/02. Geneva Hideout.flac"
+Dec 12 15:56 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/03. Ricky Ramjet.flac"
+Dec 12 16:02 : player: played "Legowelt/(BUNKER 3002) Legowelt - Pimpshifter (2010)/04. Nuisance Lover.flac"
+Dec 12 16:08 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Dec 12 21:44 : player: played "The Black Dog/TEMPLE OF TRANSPARENT BALLS/03 4, 7, 8.FLAC"
+Dec 12 21:50 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/01. Raxmus.flac"
+Dec 12 21:51 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/02. Bolt1.flac"
+Dec 12 21:57 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/03. Barbola Work.flac"
+Dec 12 21:58 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/04. Bolt2.flac"
+Dec 12 22:08 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/05. Psil-Cosyin.flac"
+Dec 12 22:14 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/06. Chase The Manhattan.flac"
+Dec 12 22:15 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/07. Bolt3.flac"
+Dec 12 22:18 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/08. Tahr.flac"
+Dec 12 22:19 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/09. Bolt4.flac"
+Dec 12 22:26 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/10. Further Harm.flac"
+Dec 12 22:33 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/11. Nommo.flac"
+Dec 12 22:33 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/12. Bolt5.flac"
+Dec 12 22:40 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/13. Pot Noddle.flac"
+Dec 12 22:41 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/14. Bolt6.flac"
+Dec 12 22:44 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/15. End Of Time.flac"
+Dec 13 18:28 : player: played "The Black Dog/The Black Dog - Spanners [Remastered]/16. Utopian Dream.flac"
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/25. Baby C'mon   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/31. The Stomp   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/16. Dirty Dancin'  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/28. Raw Hide   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/17. Harlem World  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/36. Proteck Ya Neck II The Zoo   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/19. Shimmy Shimmy Ya   (Extended Version; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/41. Brooklyn Zoo    (Lord Digga Remix; Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/26. Brooklyn Zoo   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/33. Drunk Game (Sweet Sugar Pie)   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/20. Don't U Know, Pt. II  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/3. Baby C'Mon  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/9. The Stomp  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/37. Dirty Dancin'   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/1. Intro  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/42. Brooklyn Zoo   (Lord Digga Remix; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/22. Brooklyn Zoo   (Stripped Version; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/10. Goin' Down  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/32. Goin' Down   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/43. Shimmy Shimmy Ya    (Extended Mix; Acapella; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/2. Shimmy Shimmy Ya  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/30. Don't U Know   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/21. Give It To Ya Raw (SD50 Remix)  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/12. Snakes  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/15. Cuttin' Headz  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/18. Ol' Dirty's Back  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/38. Harlem World   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/6. Raw Hide  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/23. Shimmy Shimmy Ya   (Stripped Version; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/29. Damage   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/40. Shimmy Shimmy Ya    (Studio Ton Remix; Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/35. Brooklyn Zoo II (Tiger Crane)   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/39. Shimmy Shimmy Ya    (Extended Version; Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/5. Hippa To Da Hoppa  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/24. Shimmy Shimmy Ya   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/34. Snakes   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/13. Brooklyn Zoo II (Tiger Crane)  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/4. Brooklyn Zoo  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/7. Damage  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/14. Proteck Ya Neck II the Zoo (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/11. Drunk Game (Sweet Sugar Pie)  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/8. Don't U Know  (2020 Remaster).flac
+Dec 13 18:28 : update: added Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/27. Hippa to Da Hoppa   (Instrumental; 2020 Remaster).flac
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 13 18:28 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 13 18:30 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/2. Shimmy Shimmy Ya  (2020 Remaster).flac"
+Dec 13 18:34 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/3. Baby C'Mon  (2020 Remaster).flac"
+Dec 13 18:37 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/4. Brooklyn Zoo  (2020 Remaster).flac"
+Dec 13 18:40 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/5. Hippa To Da Hoppa  (2020 Remaster).flac"
+Dec 13 18:44 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/6. Raw Hide  (2020 Remaster).flac"
+Dec 13 18:47 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/7. Damage  (2020 Remaster).flac"
+Dec 14 01:58 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/2. Shimmy Shimmy Ya  (2020 Remaster).flac"
+Dec 15 21:22 : player: played "Ol' Dirty Bastard/Ol Dirty Bastard - Return to the 36 Chambers- The Dirty Version (25th Anniversary)/2. Shimmy Shimmy Ya  (2020 Remaster).flac"
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/04 - Bistro.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/06 - America's Most Blunted (Feat. Quasimoto).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/03 - Meat Grinder.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/11 - Money Folder.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/08 - Rainbows.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/22 - Rhinestone Cowboy.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/16 - Strange Ways.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/20 - All Caps.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/09 - Curls.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/19 - Supervillain Theme (Instrumental).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/18 - Eye (Feat. Stacy Epps).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/10 - Do Not Fire! (Instrumental).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/01 - The Illest Villains.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/15 - Hardcore Hustle (Feat. Wildchild).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/12 - Shadows Of Tomorrow (Feat. Quasimoto).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/07 - Sickfit (Instrumental).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/14 - Figaro.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/05 - Raid (Feat. MED).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/02 - Accordion.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/17 - Fancy Clown (Feat. Viktor Vaughn).flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/13 - Operation Lifesaver Aka Mint Test.flac
+Dec 15 21:22 : update: added MF Doom/Madvillainy [2004]/21 - Great Day.flac
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 15 21:22 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 15 21:24 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Dec 15 21:35 : player: played "MF Doom/Madvillainy [2004]/02 - Accordion.flac"
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/19 Hero vs. Villain (Epilogue) feat. E. Mason.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/03 Rhymes Like Dimes feat. DJ Cucumber Slice.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/14 The Mic.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/13 Operation_ Greenbacks feat. Megalon.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/05 Back in the Days (skit).flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/04 The Finest feat. Tommy Gunn.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/12 Hey!.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/18 _ feat. Kurious.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/10 Who You Think I Am_ feat. X-Ray, Rodan, Megalon, Kwite Def, King Geedorah & Kong.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/08 Red and Gold.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/01 The Time We Faced Doom (skit).flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/06 Go With the Flow.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/16 Dead Bent.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/07 Tick, Tick... feat. MF Grimm.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/09 The Hands of Doom (skit).flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/11 Doom, Are You Awake_ (skit).flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/15 The Mystery of Doom (skit).flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/02 Doomsday.flac
+Dec 15 21:35 : update: added MF Doom/Operation_ Doomsday/17 Gas Drawls.flac
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 15 21:35 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 16 15:02 : player: played "MF Doom/Operation_ Doomsday/03 Rhymes Like Dimes feat. DJ Cucumber Slice.flac"
+Dec 16 15:06 : player: played "MF Doom/Operation_ Doomsday/04 The Finest feat. Tommy Gunn.flac"
+Dec 16 15:07 : player: played "MF Doom/Operation_ Doomsday/05 Back in the Days (skit).flac"
+Dec 16 15:11 : player: played "MF Doom/Operation_ Doomsday/06 Go With the Flow.flac"
+Dec 16 15:15 : player: played "MF Doom/Operation_ Doomsday/07 Tick, Tick... feat. MF Grimm.flac"
+Dec 18 03:01 : player: played "MF Doom/Operation_ Doomsday/08 Red and Gold.flac"
+Dec 19 19:10 : update: added Boards of Canada/In a Beautiful Place Out in the Country (2000)/Boards of Canada - In a Beautiful Place Out in the Country - 03 - In a Beautiful Place Out in the Country (2591 kbps) [FLAC].flac
+Dec 19 19:10 : update: added Boards of Canada/In a Beautiful Place Out in the Country (2000)/Boards of Canada - In a Beautiful Place Out in the Country - 04 - Zoetrope (2505 kbps) [FLAC].flac
+Dec 19 19:10 : update: added Boards of Canada/In a Beautiful Place Out in the Country (2000)/Boards of Canada - In a Beautiful Place Out in the Country - 02 - Amo Bishop Roden (2642 kbps) [FLAC].flac
+Dec 19 19:10 : update: added Boards of Canada/In a Beautiful Place Out in the Country (2000)/Boards of Canada - In a Beautiful Place Out in the Country - 01 - Kid for Today (2745 kbps) [FLAC].flac
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0008
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0007
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0006
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0005
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0004
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0003
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0002
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows Disk 2 [SLSK] [CD - XL1247CDJP]/CD2.cue/track0001
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0010
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0009
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0008
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0007
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0006
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0005
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0004
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0003
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0002
+Dec 19 19:10 : update: removing Radiohead/Radiohead - In Rainbows [SLSK] [CD - XL1247CDJP]/CD1.cue/track0001
+Dec 19 19:14 : player: played "Boards of Canada/In a Beautiful Place Out in the Country (2000)/Boards of Canada - In a Beautiful Place Out in the Country - 01 - Kid for Today (2745 kbps) [FLAC].flac"
