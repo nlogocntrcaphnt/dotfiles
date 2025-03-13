@@ -75,11 +75,10 @@ bindsym $mod+shift+s exec --no-startup-id cat Documents/symbols_list.txt | dmenu
 #bindsym $mod+ctrl+f exec --no-startup-id cat Documents/words_list.txt | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '{print $1}' | cut -f1 -d "-" | xclip -selection c -r
 
 
-#bindsym $mod+shift+b exec --no-startup-id ls ~/Documents/PDFs/ | grep ".pdf" | sort | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | awk '$0="Documents/PDFs/"$0' | xargs -r -d '\n' cat | zathura -
-bindsym $mod+shift+p exec --no-startup-id ~/Documents/repositories/scripts/passmenu.sh
+
 bindsym $mod+ctrl+d exec --no-startup-id grep 'emph' ~/Documents/repositories/LaTeX_personal_dictionary/Words.tex | sed 's/.*{//' | sed 's/.$//' | sort | dmenu -nb '#1D1D1D' -nf '#aaaaaa' -sb '#8a7b70' -sf '#1D1D1D' -fn 'Ohsnap:pixelsize=12' -l 15 | xargs -I {} ~/Documents/repositories/LaTeX_personal_dictionary/addword.sh {} && zathura ~/Documents/repositories/LaTeX_personal_dictionary/Words.pdf
 
-bindsym $mod+ctrl+r exec --no-startup-id urxvt -e ffmpeg -video_size 1920x1080 -framerate 30 -f x11grab -i :0.0+0,416 -c:v libx264 -crf 0 -preset ultrafast -color_range 2 -f alsa -ac 1 -i hw:3 ~/Videos/"$(date +"%Y_%m_%d_%I_%M")".mp4
+#bindsym $mod+ctrl+r exec --no-startup-id urxvt -e ffmpeg -video_size 1920x1080 -framerate 30 -f x11grab -i :0.0+0,416 -c:v libx264 -crf 0 -preset ultrafast -color_range 2 -f alsa -ac 1 -i hw:3 ~/Videos/"$(date +"%Y_%m_%d_%I_%M")".mp4
 #bindsym $mod+shift+v exec urxvt -e "arecord -D hw:3,0 -i -f S24_3LE -c2 -r48000 ~/Music/"$(date +"%Y_%m_%d_%I_%M")".wav; ls -lrt ~/Music/ | tail -n1 | sed 's/.*\ //' | xargs -I {} ffmpeg -i ~/Music/{} -ac 1 ~/Music/"$(date +"%Y_%m_%d_%I_%M")".mp3 && ls -lrt ~/Music/ | grep ".wav" | tail -n1 | sed 's/.*\ //' | xargs -I {} rm ~/Music/{}"
 
 bindsym $mod+shift+v exec mpv /dev/video0 --ontop=yes --snap-window --geometry='+10-30' --profile=low-latency --untimed
@@ -148,16 +147,16 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 #Variables
-set $workspace1 "I: Terminals "
-set $workspace2 "II: FireFox "
-set $workspace3 "III: Discord "
-set $workspace4 "IV: Manager "
-set $workspace5 "V: Desktop "
-set $workspace6 "VI: Deluge "
-set $workspace7 "VII: WoW "
-set $workspace8 "VIII: Steam "
-set $workspace9 "XI: PDF "
-set $workspace10 "X: Soulseek "
+set $workspace1 "𝍠: محطة "
+set $workspace2 "𝍡: فايرفوكس "
+set $workspace3 "𝍢: محادثات "
+set $workspace4 "𝍣: مدير "
+set $workspace5 "𝍤: كمبيوتر مكتبي "
+set $workspace6 "𝍥: رَأسِيّ "
+set $workspace7 "𝍦: كمبيوتر مكتبي "
+set $workspace8 "𝍧: شتيت "
+set $workspace9 "𝍨: شتيت "
+set $workspace10 "𝍩: شتيت "
 
 #assign workspace to monitor
 workspace $workspace1 output HDMI-A-0
@@ -167,9 +166,7 @@ workspace $workspace4 output HDMI-A-1
 workspace $workspace5 output HDMI-A-0
 workspace $workspace6 output HDMI-A-1
 workspace $workspace7 output HDMI-A-0
-workspace $workspace8 output HDMI-A-1
-workspace $workspace9 output HDMI-A-1
-workspace $workspace10 output HDMI-A-1
+
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
@@ -195,24 +192,17 @@ bindsym $mod+Shift+8 move container to workspace $workspace8
 bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace10
  
-assign [class="Firefox"] $workspace2
-assign [class="Gnome-terminal"] $workspace1
+assign [class="org.mozilla.firefox"] $workspace2
 assign [class="URxvt"] $workspace1
-assign [class="Skype"] $workspace3
 assign [class="Gedit"] $workspace4
 assign [class="mpv"] $workspace1
-assign [class="Deluge"] $workspace6
 assign [instance="wow-64.exe"] $workspace7
 assign [class="discord"] $workspace3
-assign [class="Waterfox"] $workspace5
-assign [class="Okular"] $workspace9
 assign [class="SoulseekQt-2016-1-17-64bit"] $workspace10
 assign [class="Thunar"] $workspace4
 assign [class="Gimp-2.10"] $workspace5
-assign [class="Steam"] $workspace8
-assign [class="feh"] $workspace1
 assign [class="Zathura"] $workspace1
-assign [class="Nautilus"] $workspace4
+assign [class="TelegramDesktop"] $workspace3
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
