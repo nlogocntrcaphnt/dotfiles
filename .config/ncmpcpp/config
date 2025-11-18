@@ -1,13 +1,5 @@
 % egrep -v '^#' .ncmpcpp/config
-mpd_music_dir = "~/Music/Artists"
 
-visualizer_in_stereo = "no"
-visualizer_data_source = "/tmp/mpd.fifo"
-#visualizer_output_name = "my_fifo"
-% visualizer_sync_interval = "20"
-visualizer_type = "spectrum"
-visualizer_look = "▋▋"
-visualizer_color = 38, 45, 81, 123, 252, 255
 
 message_delay_time = "2"
 playlist_shorten_total_times = "yes"

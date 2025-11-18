@@ -7,7 +7,7 @@ general {
 	color_bad = "#74857c"
 }
 
-order += "ethernet enp9s0"
+
 order += "disk /"
 order += "cpu_usage"
 order += "volume master"
@@ -30,19 +30,19 @@ battery 0 {
 }
 
 tztime local {
-	format = " Date: %m/%d/%y  Time: %H:%M "
+	format = " %m/%d/%y %H:%M :التاريخ والوقت "
 }
 
 cpu_usage {
-	format = " CPU: %usage "
+	format = " %usage :المعالج "
 }
 
 disk "/" {
-	format = " Disk: %free "
+	format = " %free "
 }
 
 volume master {
-	format = " Vol: %volume "
+	format = " %volume :جهارة الصوت "
 	device = "default"
 	mixer = "Master"
 	mixer_idx = 0
