@@ -1,48 +1,107 @@
-https://www.ds.unipi.gr/category/announcements/feed/ "University" "~University of Piraeus Announcements (ds.unipi.gr)"
-#http://fyletika.blogspot.com/feeds/posts/default?alt=rss "~Φυλετικά blog (Blogspot)"
+#https://www.ds.unipi.gr/category/announcements/feed/ "University" "~University of Piraeus Announcements (ds.unipi.gr)"
+http://fyletika.blogspot.com/feeds/posts/default?alt=rss "Greece" "~Φυλετικά blog (Blogspot)"
+
 
 #Technology
 https://notrelated.libsyn.com/rss "Politics" "Podcasts" "~Not Related! Luke Smith (RSS)"
 https://lukesmith.xyz/rss.xml "Politics" "~Luke Smith blog (self-hosted)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Tech" "~Wolfgang's Channel (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "Tech" "~Tripcode!Q/7 aka /g/ trap (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Tech" "~Luke Smith (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ "Tech" "~Level1Tech (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCOWcZ6Wicl-1N34H0zZe38w "Tech" "~Level1Linux (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "Tech" "~Louis Rossmann (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Tech" "~Mental Outlaw (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCD0y51PJfvkZNe3y3FR5riw "Tech" "~Chyrosran22 (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVSHXNNBitaPd5lYz48--yg "Tech" "~Tech ingredients (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Tech" "YouTube" "~Wolfgang's Channel (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "Tech" "YouTube" "~Tripcode!Q/7 aka /g/ trap (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Tech" "YouTube" "~Luke Smith (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ "Tech" "YouTube" "~Level1Tech (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOWcZ6Wicl-1N34H0zZe38w "Tech" "YouTube" "~Level1Linux (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "Tech" "YouTube" "~Louis Rossmann (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Tech" "YouTube" "~Mental Outlaw (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCD0y51PJfvkZNe3y3FR5riw "Tech" "YouTube" "~Chyrosran22 (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVSHXNNBitaPd5lYz48--yg "Tech" "YouTube" "~Tech ingredients (YouTube)"
 
 #Politics
-https://www.youtube.com/feeds/videos.xml?channel_id=UCHXnesw0YDovA1HRercHGVQ "Politics" "~Charls Carrol (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9jYHkhtEO7Z4mfZ9eMzuyw "Politics" "YouTube" "Greece" "~Κωνσταντίνος Μπογδάνος (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1KjWRBCUGvxDkrhu_-UBWg "Politics" "YouTube" "Greece" "~Greekonomics (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQySlvKC5R3WJ30AMiIeN9Q "YouTube" "Greece" "~Λούμπεν Ρετρολλετάριος (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZB_2l592dPek9tl0CFFBg "Politics" "YouTube" "Greece" "Podcasts" "~LiFO TV Podcasts (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuQMNlu9eG4ehEdTxVuOaxA "Cinema" "YouTube" "Greece" "~JUMPCUT (br0scar) (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_FPej6WjHz1Gg-QzP8EJ7Q "Cinema" "YouTube" "Greece" "Podcasts" "~Beyond the Bridge Productions (YouTube)"
 http://glycineputler.libsyn.com/rss "Politics" "Podcasts" "~Bronze Age Mantis (https://glycineputler.libsyn.com/)"
-https://www.patreon.com/rss?campaign=4649067&auth=KK1r1xM6QW2LT6lixk1jafN93Y3qnQF9 "~BlackScare Podcast (Red Scare Dark Feed)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZAENaOaceQUMd84GDc26EA "Politics" "~Survive the Jive (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCmJgEsCYJ4P-1ys0YonYUrw "Politics" "~MIKE MA (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVgzAj-JIcw6OEbcILlZWdg "Politics" "YouTube" "~West Bestern BAP highlights (YouTube)"
+https://www.patreon.com/rss?campaign=4649067&auth=KK1r1xM6QW2LT6lixk1jafN93Y3qnQF9 "Politics" "~BlackScare Podcast (Red Scare Dark Feed)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZAENaOaceQUMd84GDc26EA "Politics" "YouTube" "~Survive the Jive (YouTube)"
+
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCmJgEsCYJ4P-1ys0YonYUrw "Politics" "~MIKE MA (YouTube)"
+
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3cpN6gcJQqcCM6mxRUo_dA "Politics" "Documentary" "YouTube" "~Wendigoon (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7SeFWZYFmsm1tqWxfuOTPQ "Politics" "Documentary" "YouTube" "~Count Dankula (YouTube)"
+
 
 
 #Pharmacology
-https://www.youtube.com/feeds/videos.xml?channel_id=UCoR7CHkMETs3ByOv74OAbFw "Pharmacology" "~MPMD (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCHSwGdmiAN0HNGHslXRqBtQ "Pharmacology" "~Leo and Longevity (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC20rN1FDG5XaMxvAD7Ed4LQ "Pharmacology" "~Vigorous Steve (YouTube)"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCoR7CHkMETs3ByOv74OAbFw "Pharmacology" "~MPMD (YouTube)"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCHSwGdmiAN0HNGHslXRqBtQ "Pharmacology" "~Leo and Longevity (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC20rN1FDG5XaMxvAD7Ed4LQ "Pharmacology" "YouTube" "~Vigorous Steve (YouTube)"
 
 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCfUaZ8Ra7m7BqUEACv2jySw "Memes" "~Hyde Wars"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCiUkcNS6W0n8QdosuZASduQ "Politics" "~The New Pill (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0KkQzV-XvTLTToZbs2PrBw "Politics" "~Sam Hyde & Nick's Clips (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCD6VugMZKRhSyzWEWA9W2fg "Memes" "~SsethTzeentach Meme Gaymu Reviews (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3yqkd0pi4feA6lkNNA3Oqw "Memes" "~Alienmode (YouTube)"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCfUaZ8Ra7m7BqUEACv2jySw "Memes" "~Hyde Wars"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCiUkcNS6W0n8QdosuZASduQ "Politics" "~The New Pill (YouTube)"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC0KkQzV-XvTLTToZbs2PrBw "Politics" "~Sam Hyde & Nick's Clips (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCD6VugMZKRhSyzWEWA9W2fg "Vidya" "YouTube" "~SsethTzeentach Meme Gaymu Reviews (YouTube)"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC3yqkd0pi4feA6lkNNA3Oqw "Memes" "~Alienmode (YouTube)"
 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCuYLDxZWv-aal88czKkFvKA "~NIGHTRIDE (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UClkUhTjFbQbtGfS14h9Vw5g "~Martijn Doolaard (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCFQMnBA3CS502aghlcr0_aw "~Coffeezilla (YouTube)"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCuYLDxZWv-aal88czKkFvKA "~NIGHTRIDE (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UClkUhTjFbQbtGfS14h9Vw5g "Documentary" "YouTube" "~Martijn Doolaard (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFQMnBA3CS502aghlcr0_aw "Documentary" "YouTube" "~Coffeezilla (YouTube)"
 
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3XdYJjWliOdKuZMNaTiP8Q "Audio Gear" "~Z Reviews (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCQQR-Lu1vjEgNwC2hhE_J-w "Audio Gear" "~Z Reviews Unboxings (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7WtLipHnndkqwSxvL0oyVQ "Audio Gear" "~DMS (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCx9bOYEjkevIDYONBAstK-A "Audio Gear" "~Joshua Valour (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaDNKeOgZUaoEfj62C8jD7A "Audio" "YouTube" "~Pearl Acoustics (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=CIJHwsTJyrH4YznoJxZmJHQ "Audio" "YouTube" "~GR Research (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCW_IqM21u0J-zsKtCq4Gj2w "Audio" "YouTube" "~Erin's Audio Corner (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UUC6mzA8J7n0ylf0RnDpj-vrg "Audio" "YouTube" "~Paul McGowan, PS Audio (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFnhdh4Hj78gtRtreOR9OzQ "Audio" "YouTube" "~New Record Day (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCG8GZMXiVDTWk8U5PnOmJcw "Audio" "YouTube" "~Jay's Iyagi (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3XdYJjWliOdKuZMNaTiP8Q "Audio" "YouTube" "~Z Reviews (YouTube)"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCQQR-Lu1vjEgNwC2hhE_J-w "Audio" "YouTube" "~Z Reviews Unboxings (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7WtLipHnndkqwSxvL0oyVQ "Audio" "YouTube" "~DMS (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCx9bOYEjkevIDYONBAstK-A "Audio" "YouTube" "~Joshua Valour (YouTube)"
 
 #Music
-https://www.youtube.com/feeds/videos.xml?channel_id=UChmm356a5qe1luUsoatAgjA "Music" "~The Dungeon Synth Archives (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UChmm356a5qe1luUsoatAgjA "Music" "YouTube" "~The Dungeon Synth Archives (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBJ--KnlNfaRHQOtY6kY4Vg "Music" "YouTube" "~Black Koshinomi (Legowelt archive) (YouTube)"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCPSIAF6LFJvaTCTv0cjx_aw "Music" "~/cyber/ music prod anon (YouTube)"
+
+
+#Reddit
+
+#Reddit Audio
+https://www.reddit.com/r/audiophile/.rss "Reddit" "Audio" "~r/audiophile (Reddit)"
+https://www.reddit.com/r/budgetaudiophile/.rss "Reddit" "Audio" "~r/budgetaudiophile (Reddit)"
+https://www.reddit.com/r/diyaudio/.rss "Reddit" "Audio" "~r/diyaudio (Reddit)"
+https://www.reddit.com/r/vintageaudio/.rss "Reddit" "Audio" "~r/vintageaudio (Reddit)"
+https://www.reddit.com/r/homestudios/.rss "Reddit" "Audio" "~r/homestudios (Reddit)"
+https://www.reddit.com/r/listeningspaces/.rss "Reddit" "Audio" "~r/listeningspaces (Reddit)"
+https://www.reddit.com/r/hometheater/.rss "Reddit" "Audio" "~r/hometheater (Reddit)"
+https://www.reddit.com/r/plantfi/.rss "Reddit" "Audio" "~r/plantfi (Reddit)"
+https://www.reddit.com/r/musicbattlestations/.rss "Reddit" "Audio" "~r/musicbattlestations (Reddit)"
+
+#Reddit Greece
+https://www.reddit.com/r/greece/.rss "Reddit" "Greece" "~r/greece (Reddit)"
+https://www.reddit.com/r/europe/.rss "Reddit" "Greece" "~r/europe (Reddit)"
+https://www.reddit.com/r/greececirclejerk/.rss "Reddit" "Greece" "~r/greececirclejerk (Reddit)"
+https://www.reddit.com/r/2greek4you/.rss "Reddit" "Greece" "~r/2greek4you (Reddit)"
+
+#Reddit Tech
+https://www.reddit.com/r/linux/.rss "Reddit" "Tech" "~r/linux (Reddit)"
+https://www.reddit.com/r/github/.rss "Reddit" "Tech" "~r/github (Reddit)"
+https://www.reddit.com/r/bash/.rss "Reddit" "Tech" "~r/bash (Reddit)"
+https://www.reddit.com/r/webscraping/.rss "Reddit" "Tech" "~r/webscraping (Reddit)"
+https://www.reddit.com/r/mpv/.rss "Reddit" "Tech" "~r/mpv (Reddit)"
+https://www.reddit.com/r/mechanicalkeyboards/.rss "Reddit" "Tech" "~r/mkg (Reddit)"
+https://www.reddit.com/r/unixporn/.rss "Reddit" "Tech" "~r/unix (Reddit)"
+https://www.reddit.com/r/battlestations/.rss "Reddit" "Tech" "~r/battlestations (Reddit)"
+https://www.reddit.com/r/casio/.rss "Reddit" "Tech" "~r/casio (Reddit)"
+
+
+
+https://www.reddit.com/r/interiordesign/.rss "Reddit" "Design?" "~r/interiordesign (Reddit)"
+https://www.reddit.com/r/malelivingspaces/.rss "Reddit" "Design?" "~r/malelivingspaces (Reddit)"
+https://www.reddit.com/r/architecture/.rss "Reddit" "Design?" "~r/architecture (Reddit)"
+
+https://www.reddit.com/r/orthotropics/.rss "Reddit" "~r/orthotropics (Reddit)"
